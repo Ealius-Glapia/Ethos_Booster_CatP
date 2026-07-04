@@ -1,0 +1,2966 @@
+{
+  "version": 1,
+  "boosters": [
+    {
+      "id": "Booster_Angela_White",
+      "name": "Booster P1",
+      "zip": "Booster_Angela_White.zip",
+      "size": 10751294,
+      "checksum_sha256": "a58bead5f294b4d5532122e0ce497c7876a11b39b19908c93ee0801dcf57dc18",
+      "total_cards": 156,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Skye_Blue",
+      "name": "Booster P2",
+      "zip": "Booster_Skye_Blue.zip",
+      "size": 11660435,
+      "checksum_sha256": "4a453944f9e88cede7def9daf94d7dbedfc9667562298be226ba568928d9e82a",
+      "total_cards": 162,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Riley_Reid",
+      "name": "Booster P3",
+      "zip": "Booster_Riley_Reid.zip",
+      "size": 11032948,
+      "checksum_sha256": "6e43946a69558c89c2eb7820abc1fb3a69dcf32d5865b436a25ea6e11e10faaa",
+      "total_cards": 159,
+      "total_persons": 53
+    },
+    {
+      "id": "Booster_Lana_Rhoades",
+      "name": "Booster P4",
+      "zip": "Booster_Lana_Rhoades.zip",
+      "size": 11661482,
+      "checksum_sha256": "936e4a824bca155e7b47477fe04bca1f0c965131bfb6e4e0cf547304b07005c0",
+      "total_cards": 165,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Nicole_Murkovski",
+      "name": "Booster P5",
+      "zip": "Booster_Nicole_Murkovski.zip",
+      "size": 12224306,
+      "checksum_sha256": "1c7960618ae4e0dbb9abdaa6c0faed410ba4400b8f3413c7b29746a4fea992af",
+      "total_cards": 174,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Brandi_Love",
+      "name": "Booster P6",
+      "zip": "Booster_Brandi_Love.zip",
+      "size": 12401564,
+      "checksum_sha256": "e186730e5abc537d420aa9d75c0f2ed84efc44a3d7192a42552622ec47870bea",
+      "total_cards": 175,
+      "total_persons": 61
+    },
+    {
+      "id": "Booster_Cory_Chase",
+      "name": "Booster P7",
+      "zip": "Booster_Cory_Chase.zip",
+      "size": 12178815,
+      "checksum_sha256": "36ecbe845a70bc73878f965d009414855202a2ec69dd2dba4a67751258bc9d0b",
+      "total_cards": 173,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Lily_Adams",
+      "name": "Booster P8",
+      "zip": "Booster_Lily_Adams.zip",
+      "size": 12043977,
+      "checksum_sha256": "ffaf5a971249475055e28b9ec7b818844446f044e7b4b37ae8219c215ec2bc22",
+      "total_cards": 173,
+      "total_persons": 61
+    },
+    {
+      "id": "Booster_Rachel_James",
+      "name": "Booster P9",
+      "zip": "Booster_Rachel_James.zip",
+      "size": 11329814,
+      "checksum_sha256": "5655527c398024e8d65483b191578f905c07ab50975a14e85cc79cd1a9be863b",
+      "total_cards": 163,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Vanessa_Veracruz",
+      "name": "Booster P10",
+      "zip": "Booster_Vanessa_Veracruz.zip",
+      "size": 12146406,
+      "checksum_sha256": "3cbe43eceb6cd680592226aa50c813af3c29c5b5d10f467b3fe8f0cb931b4984",
+      "total_cards": 173,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Mia_Malkova",
+      "name": "Booster P11",
+      "zip": "Booster_Mia_Malkova.zip",
+      "size": 12095851,
+      "checksum_sha256": "5430df795f0720c5a6041066f3a379f0f36a2fb2061c2ef1c1244494c76eae9b",
+      "total_cards": 169,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Lexi_Luna",
+      "name": "Booster P12",
+      "zip": "Booster_Lexi_Luna.zip",
+      "size": 11115035,
+      "checksum_sha256": "f82b87a3d94a1f80bf1f2b42c51287f8548acc6bc0642e6b179277f02b5a2748",
+      "total_cards": 168,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Kenna_James",
+      "name": "Booster P13",
+      "zip": "Booster_Kenna_James.zip",
+      "size": 11298481,
+      "checksum_sha256": "f415bcd3f0fd2d348537131ab9245557eb79073595354dac42a003355ff0c3f6",
+      "total_cards": 171,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Lena_Paul",
+      "name": "Booster P14",
+      "zip": "Booster_Lena_Paul.zip",
+      "size": 11773539,
+      "checksum_sha256": "b33b7f74add68064b1e55eff61a8276b720305be67fbf4830d0a162b72a37ce4",
+      "total_cards": 169,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Alexis_Fawx",
+      "name": "Booster P15",
+      "zip": "Booster_Alexis_Fawx.zip",
+      "size": 12665206,
+      "checksum_sha256": "ce26361d1799ca1f6a5aa39d7cbad86545e119df29b5344b7b4bcc876e892f5e",
+      "total_cards": 175,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Little_Caprice",
+      "name": "Booster P16",
+      "zip": "Booster_Little_Caprice.zip",
+      "size": 10696077,
+      "checksum_sha256": "979b39a5cc69e3251aae0674512e8ebe06400cfb242d4955f2a3952e1d236d23",
+      "total_cards": 164,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Charlotte_Sartre",
+      "name": "Booster P17",
+      "zip": "Booster_Charlotte_Sartre.zip",
+      "size": 11534486,
+      "checksum_sha256": "8b37613f3e76e5fb9e216e095eadab8b7e6c3298ebd16deb4df17aaaa8bc0b0f",
+      "total_cards": 167,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Jill_Kassidy",
+      "name": "Booster P18",
+      "zip": "Booster_Jill_Kassidy.zip",
+      "size": 12420112,
+      "checksum_sha256": "3e9ca1955700f29fa97b729773159fcd335ac96d6f3e79ecd7e025af40ab865c",
+      "total_cards": 177,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Luxury_Girl",
+      "name": "Booster P19",
+      "zip": "Booster_Luxury_Girl.zip",
+      "size": 11117080,
+      "checksum_sha256": "dec233e45be25af875aa3af009e056f61602efd1396dd5ea7bbf022d10de2647",
+      "total_cards": 163,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Karlie_Montana",
+      "name": "Booster P20",
+      "zip": "Booster_Karlie_Montana.zip",
+      "size": 11000683,
+      "checksum_sha256": "0fe3301f288ea6e1e833bad07a9a8a4085889426497acb4447a2417e44409a01",
+      "total_cards": 162,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Anissa_Kate",
+      "name": "Booster P21",
+      "zip": "Booster_Anissa_Kate.zip",
+      "size": 11551482,
+      "checksum_sha256": "6a4f172732233c55210bc1cca08e6ca59b1ebb7ab168b5cff51867140f8d5e61",
+      "total_cards": 168,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Karina_Baru",
+      "name": "Booster P22",
+      "zip": "Booster_Karina_Baru.zip",
+      "size": 12040634,
+      "checksum_sha256": "309ea80ded8b898b00674781987dc9a4dffcebf01114a45df93d8d4fa64fd941",
+      "total_cards": 174,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Lauren_Phillips",
+      "name": "Booster P23",
+      "zip": "Booster_Lauren_Phillips.zip",
+      "size": 11341649,
+      "checksum_sha256": "3b0ba00680fc77faf64f146338fe4fc0dae510e982a66c71b902edaf7f12f59e",
+      "total_cards": 162,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Kimber_Lee",
+      "name": "Booster P24",
+      "zip": "Booster_Kimber_Lee.zip",
+      "size": 11719742,
+      "checksum_sha256": "00e9d5852d04a80a5c07a78b1f74be13e8dc8f489fc4a7db03f7c66f8f7e9c6b",
+      "total_cards": 167,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Eve_Angel",
+      "name": "Booster P25",
+      "zip": "Booster_Eve_Angel.zip",
+      "size": 10528897,
+      "checksum_sha256": "9047a891f8611476203b71fefafc7ab1e3b9254e9042353a2187bb460e919371",
+      "total_cards": 154,
+      "total_persons": 53
+    },
+    {
+      "id": "Booster_Avi_Love",
+      "name": "Booster P26",
+      "zip": "Booster_Avi_Love.zip",
+      "size": 11666624,
+      "checksum_sha256": "5d56ba01ca70920576c90221071f356cb135c8ee0ac269f7eca506bcf5210015",
+      "total_cards": 167,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Elsa_Jean",
+      "name": "Booster P27",
+      "zip": "Booster_Elsa_Jean.zip",
+      "size": 13101197,
+      "checksum_sha256": "a335c35d55a98aed25644c66c637c703142ecde7c802a0051c42433de0edb8d8",
+      "total_cards": 179,
+      "total_persons": 62
+    },
+    {
+      "id": "Booster_Hannah_Harper",
+      "name": "Booster P28",
+      "zip": "Booster_Hannah_Harper.zip",
+      "size": 10612290,
+      "checksum_sha256": "bb6465af746b521796f024669c252f8cfe491d77cd42c91612962ea1432c91cb",
+      "total_cards": 154,
+      "total_persons": 52
+    },
+    {
+      "id": "Booster_Peta_Jensen",
+      "name": "Booster P29",
+      "zip": "Booster_Peta_Jensen.zip",
+      "size": 12230786,
+      "checksum_sha256": "a3d3575d3bbd1a471b7936bd114a9e188d20fd4d823be13a6df47bb1b00b5a6c",
+      "total_cards": 171,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Gabbie_Carter",
+      "name": "Booster P30",
+      "zip": "Booster_Gabbie_Carter.zip",
+      "size": 11467924,
+      "checksum_sha256": "1bee98ff5738d8768284c21f89ca5902bd537c3da50ad38281026cfe2c3d1bcb",
+      "total_cards": 162,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Amber_Moore",
+      "name": "Booster P31",
+      "zip": "Booster_Amber_Moore.zip",
+      "size": 11265861,
+      "checksum_sha256": "3a254c4e66dbd1acb7842780e8fb86415ce72d4784620f77a28b63416695af87",
+      "total_cards": 160,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Eve_Sweet",
+      "name": "Booster P32",
+      "zip": "Booster_Eve_Sweet.zip",
+      "size": 11381006,
+      "checksum_sha256": "6703ae99de9fae4d5007de8e245219c842acf6e615006440571a9e881ec498e7",
+      "total_cards": 166,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Ryan_Reid",
+      "name": "Booster P33",
+      "zip": "Booster_Ryan_Reid.zip",
+      "size": 11937023,
+      "checksum_sha256": "5e1e134fe98e8a19e8adc6ad44310284692bdfeb534085c6ccb03ec810c9ecc8",
+      "total_cards": 163,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Maitland_Ward",
+      "name": "Booster P34",
+      "zip": "Booster_Maitland_Ward.zip",
+      "size": 12439726,
+      "checksum_sha256": "44dab0a88d88843bd19bd0ed0fd9a213549aee9029040fae24177dd135215115",
+      "total_cards": 172,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Angel_Youngs",
+      "name": "Booster P35",
+      "zip": "Booster_Angel_Youngs.zip",
+      "size": 11420636,
+      "checksum_sha256": "f928a92e09b9bd179b13431bea0d482d2e8e1ed61dfec64b17415bdd36824058",
+      "total_cards": 163,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Lily_Blossom",
+      "name": "Booster P36",
+      "zip": "Booster_Lily_Blossom.zip",
+      "size": 11975239,
+      "checksum_sha256": "90944387eab12d36f272a0a9b90e70b6d3bc02409dce2fba99c40cd736b0fdf2",
+      "total_cards": 165,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Cherie_Deville",
+      "name": "Booster P37",
+      "zip": "Booster_Cherie_Deville.zip",
+      "size": 13358706,
+      "checksum_sha256": "d22cf1b04e23d8cc56c425c6fb112b17e267f9b7108437fead29ebab79235f95",
+      "total_cards": 182,
+      "total_persons": 62
+    },
+    {
+      "id": "Booster_Eva_Elfie",
+      "name": "Booster P38",
+      "zip": "Booster_Eva_Elfie.zip",
+      "size": 11677396,
+      "checksum_sha256": "3f384dafaa1dc8b1b3e12503a6a4559e711e234911b1aab63317e7fd9a9ed3e3",
+      "total_cards": 168,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Molly_Little",
+      "name": "Booster P39",
+      "zip": "Booster_Molly_Little.zip",
+      "size": 12048041,
+      "checksum_sha256": "6554165f6f672aad2d468df12886f27819cc618f8c0b2d66c7b7c400cb17ab0a",
+      "total_cards": 170,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Braylin_Bailey",
+      "name": "Booster P40",
+      "zip": "Booster_Braylin_Bailey.zip",
+      "size": 11761443,
+      "checksum_sha256": "72b32ed1c603a552274691b95268dcd21e915ddcd6677c7a1b697844fa2b4779",
+      "total_cards": 171,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Blake_Blossom",
+      "name": "Booster P41",
+      "zip": "Booster_Blake_Blossom.zip",
+      "size": 11468176,
+      "checksum_sha256": "5338300c998c2f3e41e15c9d698734d06f7226e2c20bed1d465a2af0e8bfdad0",
+      "total_cards": 167,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Kate_Dalia",
+      "name": "Booster P42",
+      "zip": "Booster_Kate_Dalia.zip",
+      "size": 12483227,
+      "checksum_sha256": "691fe238d52bf8c1832b41c96887d5d6d2d5ecdb72e7337f146f168d6b6d60bd",
+      "total_cards": 176,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Emily_Willis",
+      "name": "Booster P43",
+      "zip": "Booster_Emily_Willis.zip",
+      "size": 13622405,
+      "checksum_sha256": "5e8859bad455f21a6d9934079c740be19e9fe5f54464ba29c9fb66d700f8a0e5",
+      "total_cards": 187,
+      "total_persons": 62
+    },
+    {
+      "id": "Booster_Abigaile_Johnson",
+      "name": "Booster P44",
+      "zip": "Booster_Abigaile_Johnson.zip",
+      "size": 12509535,
+      "checksum_sha256": "24d98456277279039b4d35c19ee55b8c88a1a760419cb58bdcb62125ac78777a",
+      "total_cards": 176,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Arya_Fae",
+      "name": "Booster P45",
+      "zip": "Booster_Arya_Fae.zip",
+      "size": 12302262,
+      "checksum_sha256": "95897bc3bf87e59ccb30d6167193ac42d90b0cc6656438076edfc7f066dbbe08",
+      "total_cards": 169,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_India_Summer",
+      "name": "Booster P46",
+      "zip": "Booster_India_Summer.zip",
+      "size": 11454272,
+      "checksum_sha256": "b1268474a01457fb1484701a272317d5b9f08102dacf0928541aab5f99265ad5",
+      "total_cards": 168,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Khloe_Kapri",
+      "name": "Booster P47",
+      "zip": "Booster_Khloe_Kapri.zip",
+      "size": 10718483,
+      "checksum_sha256": "2408a92bd1c8bd0521ae679c82520d97a1d9add532c3630f83145fb56b0a2a0f",
+      "total_cards": 158,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Julia_Ann",
+      "name": "Booster P48",
+      "zip": "Booster_Julia_Ann.zip",
+      "size": 12419268,
+      "checksum_sha256": "2ade5bcd47e4e250b2837dfdfe1d47addf660fc68040315148fa4c2572acf095",
+      "total_cards": 175,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Renee_Rose",
+      "name": "Booster P49",
+      "zip": "Booster_Renee_Rose.zip",
+      "size": 11109649,
+      "checksum_sha256": "833d6fc33bc617b6a863a4f8c7b75870be73b9d70a2445b6a6b4c373e63a4546",
+      "total_cards": 162,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Christy_Canyon",
+      "name": "Booster P50",
+      "zip": "Booster_Christy_Canyon.zip",
+      "size": 11797000,
+      "checksum_sha256": "f5b88a67e831958f83928cf7afae10cfddf98b5786e96a26834665016eb3431b",
+      "total_cards": 168,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Sky_Pierce",
+      "name": "Booster P51",
+      "zip": "Booster_Sky_Pierce.zip",
+      "size": 10685984,
+      "checksum_sha256": "66dfbf79623be9763f9251231aff0a3a041e0226203325d2ff361985a579f5be",
+      "total_cards": 157,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Alexis_Crystal",
+      "name": "Booster P52",
+      "zip": "Booster_Alexis_Crystal.zip",
+      "size": 11124455,
+      "checksum_sha256": "3cfcf124dd0528d276ac681d8ef307ebae5f1005d0c2e6f267cb286a02dba138",
+      "total_cards": 166,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Sophie_Dee",
+      "name": "Booster P53",
+      "zip": "Booster_Sophie_Dee.zip",
+      "size": 11668318,
+      "checksum_sha256": "a573235ae2e27424c39c0d654c343fa63004f9432147fae2da946c947c830768",
+      "total_cards": 175,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Shalina_Devine",
+      "name": "Booster P54",
+      "zip": "Booster_Shalina_Devine.zip",
+      "size": 12479060,
+      "checksum_sha256": "31d05d1709f09fc38bc7ddcd1b03931f38d52c184ccf526ed6c92cbd16ef6d14",
+      "total_cards": 176,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Dani_Daniels",
+      "name": "Booster P55",
+      "zip": "Booster_Dani_Daniels.zip",
+      "size": 11591474,
+      "checksum_sha256": "371f9aa977752842df19528d98d443e5859b0ec7ede64cbb3ec52bbf1c6ceb5f",
+      "total_cards": 164,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Eufrat",
+      "name": "Booster P56",
+      "zip": "Booster_Eufrat.zip",
+      "size": 11004115,
+      "checksum_sha256": "035b939b5b7bf3bde6796a225ed76b074ed0722d222fc8434c5ae5002564c47f",
+      "total_cards": 161,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Capri_Cavanni",
+      "name": "Booster P57",
+      "zip": "Booster_Capri_Cavanni.zip",
+      "size": 12073979,
+      "checksum_sha256": "1b4f84743267b1a4bd027e594713a08e15538ced51a08dea765caf058baedee2",
+      "total_cards": 175,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Dillion_Harper",
+      "name": "Booster P58",
+      "zip": "Booster_Dillion_Harper.zip",
+      "size": 11515842,
+      "checksum_sha256": "7c1bfd264d53db33d9906735035e061fad0683c3c9e787dae906cd266eb7cfc4",
+      "total_cards": 162,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Bree_Daniels",
+      "name": "Booster P59",
+      "zip": "Booster_Bree_Daniels.zip",
+      "size": 11150329,
+      "checksum_sha256": "1af2d382350613373063d3dd2dd2aa54c7e5b341b3df9b2398b2f9a391fcc0cf",
+      "total_cards": 166,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Stacy_Cruz",
+      "name": "Booster P60",
+      "zip": "Booster_Stacy_Cruz.zip",
+      "size": 10420711,
+      "checksum_sha256": "5f92c21ec148f215418195ef552d7306b2f67cb9e02596600dd6746a74cef385",
+      "total_cards": 156,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Penny_Barber",
+      "name": "Booster P61",
+      "zip": "Booster_Penny_Barber.zip",
+      "size": 10294657,
+      "checksum_sha256": "d8afbacef8ec7df74348680b0326227372e78b762aa4af7cfd4016e4d568e385",
+      "total_cards": 150,
+      "total_persons": 52
+    },
+    {
+      "id": "Booster_Bridgette_B",
+      "name": "Booster P62",
+      "zip": "Booster_Bridgette_B.zip",
+      "size": 11874157,
+      "checksum_sha256": "123cfbd56227149a050d638f8802e5b22d9843491c2daa33d712b602100b8ab9",
+      "total_cards": 172,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Sasha_Grey",
+      "name": "Booster P63",
+      "zip": "Booster_Sasha_Grey.zip",
+      "size": 12500369,
+      "checksum_sha256": "5e2281e81f58e9fb18b1cf5c75114f43a1ac602ceca3e40d5c35f37d5bc4184e",
+      "total_cards": 175,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Aria_Sloane",
+      "name": "Booster P64",
+      "zip": "Booster_Aria_Sloane.zip",
+      "size": 12283636,
+      "checksum_sha256": "c88161f33966ff29fae5e7e1a61680d62ee45c958b00fb827e5b5e617cc5b537",
+      "total_cards": 179,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Veronica_Leal",
+      "name": "Booster P65",
+      "zip": "Booster_Veronica_Leal.zip",
+      "size": 12319810,
+      "checksum_sha256": "c18c8587d198429292d905846d24142a7f7b583f2164141befaed1794b39b6a6",
+      "total_cards": 184,
+      "total_persons": 62
+    },
+    {
+      "id": "Booster_Josephine_Jackson",
+      "name": "Booster P66",
+      "zip": "Booster_Josephine_Jackson.zip",
+      "size": 11110264,
+      "checksum_sha256": "270e5053547d1854ba0f48059a5a14182ac9316ba75676a10f822f0eef96d770",
+      "total_cards": 166,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Autumn_Falls",
+      "name": "Booster P67",
+      "zip": "Booster_Autumn_Falls.zip",
+      "size": 12013714,
+      "checksum_sha256": "38305f22b097ff5dfeaadef57ea94310189436f1a58e9333267c57ee0bbb331d",
+      "total_cards": 171,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Vienna_Black",
+      "name": "Booster P68",
+      "zip": "Booster_Vienna_Black.zip",
+      "size": 11984929,
+      "checksum_sha256": "022e797e9b611fa71773adc288e39c5ab1f4584670d2540f4d7b81c6de8bae35",
+      "total_cards": 169,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Anna_De_Ville",
+      "name": "Booster P69",
+      "zip": "Booster_Anna_De_Ville.zip",
+      "size": 12881228,
+      "checksum_sha256": "5f6fc8a88a157aa031b001de6e7776dae55742613db3116e82757de5de4c5384",
+      "total_cards": 177,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Tori_Black",
+      "name": "Booster P70",
+      "zip": "Booster_Tori_Black.zip",
+      "size": 11270222,
+      "checksum_sha256": "70317ad014efe2115a7b8e7e22d778ef0a1eb9045fdc341c086189e5acf6a852",
+      "total_cards": 161,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Stella_Cox",
+      "name": "Booster P71",
+      "zip": "Booster_Stella_Cox.zip",
+      "size": 11401384,
+      "checksum_sha256": "bdc12055c91d05943e49ea3daad89e0d691575e668dbba73836580eb6bf80e66",
+      "total_cards": 163,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Jessica_Drake",
+      "name": "Booster P72",
+      "zip": "Booster_Jessica_Drake.zip",
+      "size": 11275798,
+      "checksum_sha256": "ca176131447a7e51f5512a7426575b1ad5e963666b4af6f48aace064ea63b350",
+      "total_cards": 162,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Jasmine_Caro",
+      "name": "Booster P73",
+      "zip": "Booster_Jasmine_Caro.zip",
+      "size": 11878652,
+      "checksum_sha256": "ba2e791b111ee8200a4b4cfb2e7c437a20b66b73e035fd8c6dcc062c1b1affcc",
+      "total_cards": 170,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Hanna_Hilton",
+      "name": "Booster P74",
+      "zip": "Booster_Hanna_Hilton.zip",
+      "size": 12354315,
+      "checksum_sha256": "1e1c8b8d9fd730d4867aab773537c38687be1bd09d1cf81ee64e3e447bdf0989",
+      "total_cards": 183,
+      "total_persons": 63
+    },
+    {
+      "id": "Booster_Britney_Amber",
+      "name": "Booster P75",
+      "zip": "Booster_Britney_Amber.zip",
+      "size": 11104493,
+      "checksum_sha256": "92d2694979f094b8d46e3c8141846a589fa2ef0a3b3f68e50b24ef6a7de8d4ce",
+      "total_cards": 167,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Alina_Lopez",
+      "name": "Booster P76",
+      "zip": "Booster_Alina_Lopez.zip",
+      "size": 11111869,
+      "checksum_sha256": "a0f22c11ae61f00579d937e0944f223bd34abdc5772338f38ed45238f6b63b07",
+      "total_cards": 168,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Emma_Hix",
+      "name": "Booster P77",
+      "zip": "Booster_Emma_Hix.zip",
+      "size": 12602949,
+      "checksum_sha256": "6a4de8138291d9290fdcd90bf0b7cf9100f50fd658beecd4877b19657aff4188",
+      "total_cards": 174,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Luna_Star",
+      "name": "Booster P78",
+      "zip": "Booster_Luna_Star.zip",
+      "size": 11748666,
+      "checksum_sha256": "0ed853d2fe3cd71aa0e9720cfd5fd441bf61fa3f6cb74bef8703c13e108a1153",
+      "total_cards": 173,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Sensual_Jane",
+      "name": "Booster P79",
+      "zip": "Booster_Sensual_Jane.zip",
+      "size": 11641419,
+      "checksum_sha256": "0c00f69a6e8a46ff00a6487aa807f39e679bf56d6b8dfa5b488a69b26b61400c",
+      "total_cards": 166,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Megan_Rain",
+      "name": "Booster P80",
+      "zip": "Booster_Megan_Rain.zip",
+      "size": 10607533,
+      "checksum_sha256": "77083556114f1ed45710b279bd515721a4241f13684a139f73a9bea0edcd08e1",
+      "total_cards": 156,
+      "total_persons": 51
+    },
+    {
+      "id": "Booster_Veronica_Avluv",
+      "name": "Booster P81",
+      "zip": "Booster_Veronica_Avluv.zip",
+      "size": 10889766,
+      "checksum_sha256": "2f935ec20cafcfbed4de88754268b5ba268291d044880c497f5bfdd738c5bdd0",
+      "total_cards": 154,
+      "total_persons": 53
+    },
+    {
+      "id": "Booster_Nekane",
+      "name": "Booster P82",
+      "zip": "Booster_Nekane.zip",
+      "size": 11040745,
+      "checksum_sha256": "5cdce83e51ce809ba93602da3a63817578563558a2bce1585411b21467b5c7ef",
+      "total_cards": 163,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Katie_Fey",
+      "name": "Booster P83",
+      "zip": "Booster_Katie_Fey.zip",
+      "size": 11425034,
+      "checksum_sha256": "e921bf52a29a9887fcd52498d95b272dbfc9cc33f2502a6c6317d48988b3c181",
+      "total_cards": 168,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Ryan_Keely",
+      "name": "Booster P84",
+      "zip": "Booster_Ryan_Keely.zip",
+      "size": 12017039,
+      "checksum_sha256": "83a59f8b3c77c11b867eb0aa4bcada846180438efdf30fa6bf70880591f4643b",
+      "total_cards": 170,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Leah_Gotti",
+      "name": "Booster P85",
+      "zip": "Booster_Leah_Gotti.zip",
+      "size": 11011836,
+      "checksum_sha256": "4129e50572e7aa26ca88cbb037a984937b00621c513f85a44ff14d70001697e3",
+      "total_cards": 164,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Lulu_Chu",
+      "name": "Booster P86",
+      "zip": "Booster_Lulu_Chu.zip",
+      "size": 11419584,
+      "checksum_sha256": "ac0d858446e6bd6eacd5352ec7a67b9e004c7312126c33de348f105729518179",
+      "total_cards": 167,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Gina_Valentina",
+      "name": "Booster P87",
+      "zip": "Booster_Gina_Valentina.zip",
+      "size": 11941358,
+      "checksum_sha256": "345063096a3bf818768269321f546297f236fc3e5adce3c6754b0caea35e9cb0",
+      "total_cards": 166,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Lil_D",
+      "name": "Booster P88",
+      "zip": "Booster_Lil_D.zip",
+      "size": 10828300,
+      "checksum_sha256": "c6898f2b63462fa6df0c85c22faeb8b4a1fbba5cf1747d0410024b0ef47ae8bc",
+      "total_cards": 159,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Julie_Jess",
+      "name": "Booster P89",
+      "zip": "Booster_Julie_Jess.zip",
+      "size": 10782979,
+      "checksum_sha256": "7ba829cfed2c62b188e8431ac1e08cdc91f215503337366b4590957fe339bef5",
+      "total_cards": 157,
+      "total_persons": 53
+    },
+    {
+      "id": "Booster_Riley_Steele",
+      "name": "Booster P90",
+      "zip": "Booster_Riley_Steele.zip",
+      "size": 10745220,
+      "checksum_sha256": "550fd104d58f0b7e614c80544eefa2b2e3814d9f412534cdb2bb93c51e08aa87",
+      "total_cards": 157,
+      "total_persons": 52
+    },
+    {
+      "id": "Booster_Kelly_Norton",
+      "name": "Booster P91",
+      "zip": "Booster_Kelly_Norton.zip",
+      "size": 11678455,
+      "checksum_sha256": "fd9fe55537b542dd8b68eb6e8721ac9eff560c54d2726acf6ac736f23b8b0b9e",
+      "total_cards": 162,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Pepper_Xo",
+      "name": "Booster P92",
+      "zip": "Booster_Pepper_Xo.zip",
+      "size": 12044299,
+      "checksum_sha256": "174fd194ea9c959503b0ece7798229fa1bf69641a65a8b0f47289ea925919919",
+      "total_cards": 179,
+      "total_persons": 61
+    },
+    {
+      "id": "Booster_Jade_Nile",
+      "name": "Booster P93",
+      "zip": "Booster_Jade_Nile.zip",
+      "size": 11087540,
+      "checksum_sha256": "74170d8ced31f98126f6e301ede7f86ca6f74262bbadfdbaf28782c61571bac3",
+      "total_cards": 161,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Misty_Stone",
+      "name": "Booster P94",
+      "zip": "Booster_Misty_Stone.zip",
+      "size": 12852325,
+      "checksum_sha256": "ed27781defec11694f116c35d5e28ed5550fd6bd7ab37c3e42731bf450b92ed3",
+      "total_cards": 185,
+      "total_persons": 64
+    },
+    {
+      "id": "Booster_Natalia_Queen",
+      "name": "Booster P95",
+      "zip": "Booster_Natalia_Queen.zip",
+      "size": 10887243,
+      "checksum_sha256": "9e0c4465e829fd51015e8f86854ae12ccb94997b7e64bfedbfe781427d3b5c49",
+      "total_cards": 163,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Octavia_Red",
+      "name": "Booster P96",
+      "zip": "Booster_Octavia_Red.zip",
+      "size": 11636274,
+      "checksum_sha256": "a079643410932dfeb5620d10b82f4ca27f885776c46a3472ca90e38516ef83d7",
+      "total_cards": 171,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Paige_Owens",
+      "name": "Booster P97",
+      "zip": "Booster_Paige_Owens.zip",
+      "size": 11287759,
+      "checksum_sha256": "a8167353af2369abc300878bb5a108e6cd80e4a0f6a91afc82b5582510d90412",
+      "total_cards": 165,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Lucie_Wilde",
+      "name": "Booster P98",
+      "zip": "Booster_Lucie_Wilde.zip",
+      "size": 12280904,
+      "checksum_sha256": "83e54a262eae22b48aa4964223fd4f2a0e412f3552cfdd99293a8bf7d8ddc16b",
+      "total_cards": 178,
+      "total_persons": 61
+    },
+    {
+      "id": "Booster_Scarlett_Sage",
+      "name": "Booster P99",
+      "zip": "Booster_Scarlett_Sage.zip",
+      "size": 11978175,
+      "checksum_sha256": "fa4c6aa823e6e73d23bac4406f3b29dc1eb1e98d02a785884b444ef59a76a2e7",
+      "total_cards": 172,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Katerina_Hartlova",
+      "name": "Booster P100",
+      "zip": "Booster_Katerina_Hartlova.zip",
+      "size": 12243904,
+      "checksum_sha256": "54bda618e9fd4227cedea7fd7bb0dbd912898ba47c4a74ccc43282726af5bec5",
+      "total_cards": 172,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_August_Ames",
+      "name": "Booster P101",
+      "zip": "Booster_August_Ames.zip",
+      "size": 11393670,
+      "checksum_sha256": "ad29d0af8a4e207330197bca74392c2c75432be79efbc8c2f6354137032710b8",
+      "total_cards": 168,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Chanel_Preston",
+      "name": "Booster P102",
+      "zip": "Booster_Chanel_Preston.zip",
+      "size": 12297852,
+      "checksum_sha256": "7c0203c639ebccde26d61570ec14750be1a671db744d4e8c0bd71009011c08bd",
+      "total_cards": 177,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Melody_Marks",
+      "name": "Booster P103",
+      "zip": "Booster_Melody_Marks.zip",
+      "size": 11788582,
+      "checksum_sha256": "0d8b71bf2e020ccce31f8f36a6a2ed258ef76f123ec6a975993d2372cbf2a19d",
+      "total_cards": 169,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Aleksa_Slusarchi",
+      "name": "Booster P104",
+      "zip": "Booster_Aleksa_Slusarchi.zip",
+      "size": 11656229,
+      "checksum_sha256": "b1b9b86a8a29e1b235bef3a76023d7b79a58d21e9a052f30583f970f6169dcf2",
+      "total_cards": 170,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Aidra_Fox",
+      "name": "Booster P105",
+      "zip": "Booster_Aidra_Fox.zip",
+      "size": 11205105,
+      "checksum_sha256": "1d4b46402133dac69bcb8ef96268f402ec42ecd53c649b3df921d4cbaeb8fa78",
+      "total_cards": 165,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Hazel_Heart",
+      "name": "Booster P106",
+      "zip": "Booster_Hazel_Heart.zip",
+      "size": 11642544,
+      "checksum_sha256": "b5e90fa9e2ab0bba8a862e2da0131d933a50efa3334d8015df2635d5bae18c16",
+      "total_cards": 168,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Dylan_Moore",
+      "name": "Booster P107",
+      "zip": "Booster_Dylan_Moore.zip",
+      "size": 10415424,
+      "checksum_sha256": "0a323b2e0df27aadfc1905fa83aeaa9d157c3080c211aa7aab8b6d736c84bdf6",
+      "total_cards": 158,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Paisley_Porter",
+      "name": "Booster P108",
+      "zip": "Booster_Paisley_Porter.zip",
+      "size": 11188152,
+      "checksum_sha256": "1f2d174358c0f4681f98e4fab27ce45ccf57d761cdf9dbfbef04c3d04b8d8031",
+      "total_cards": 165,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Roxie_Sinner",
+      "name": "Booster P109",
+      "zip": "Booster_Roxie_Sinner.zip",
+      "size": 11763075,
+      "checksum_sha256": "a2d4817ec27f600119e5f4a8ddcf54853a6daf82fd5531016238755cf3745703",
+      "total_cards": 168,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Jessa_Rhodes",
+      "name": "Booster P110",
+      "zip": "Booster_Jessa_Rhodes.zip",
+      "size": 10831061,
+      "checksum_sha256": "4a99bad780f1a0240e053744129256e052ed0637a645b5d980fb04e82cbbbf58",
+      "total_cards": 160,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Anya_Olsen",
+      "name": "Booster P111",
+      "zip": "Booster_Anya_Olsen.zip",
+      "size": 11703464,
+      "checksum_sha256": "d332f4a3b8d98b256e8d355d4058bca325034f7fc372b1d48e8212bdc3890932",
+      "total_cards": 170,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Koko_Amaris",
+      "name": "Booster P112",
+      "zip": "Booster_Koko_Amaris.zip",
+      "size": 11681704,
+      "checksum_sha256": "70c2f9efc3f38c2676f6350a7786b1d4d8232a171514fb028203778c8d4ed13c",
+      "total_cards": 169,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Kenzie_Anne",
+      "name": "Booster P113",
+      "zip": "Booster_Kenzie_Anne.zip",
+      "size": 12031858,
+      "checksum_sha256": "edcf3a80af308cc973394ffb944dd24ed957b7ee60c2574ae23e96195ef7b83b",
+      "total_cards": 168,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Lily_Carter",
+      "name": "Booster P114",
+      "zip": "Booster_Lily_Carter.zip",
+      "size": 11486676,
+      "checksum_sha256": "2668a89f60ae6226c75d47d641c51c4d544bf94f437f3728a2a847469a992b5c",
+      "total_cards": 167,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Sophie_Moone",
+      "name": "Booster P115",
+      "zip": "Booster_Sophie_Moone.zip",
+      "size": 10964471,
+      "checksum_sha256": "72bc62e274d51a53edd61b66cfdb4ed6e8a7ff39f3b388843f1413315adbc2d2",
+      "total_cards": 156,
+      "total_persons": 53
+    },
+    {
+      "id": "Booster_Aletta_Ocean",
+      "name": "Booster P116",
+      "zip": "Booster_Aletta_Ocean.zip",
+      "size": 11841630,
+      "checksum_sha256": "63b874e7621336eccf1fd7263034d03ef7768f5aea3b5dfa0c63866627fec332",
+      "total_cards": 169,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Caomei_Bala",
+      "name": "Booster P117",
+      "zip": "Booster_Caomei_Bala.zip",
+      "size": 10935624,
+      "checksum_sha256": "1a1d84be36442d062a343f3a95c090d811df4661359559d3a4f81eb038e26b3b",
+      "total_cards": 161,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Ariana_Marie",
+      "name": "Booster P118",
+      "zip": "Booster_Ariana_Marie.zip",
+      "size": 12126145,
+      "checksum_sha256": "96e044e9d58b8627d078d7ccb64b561523369a143df3c89f2b38f2461024d4b5",
+      "total_cards": 175,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Kama_Oxi",
+      "name": "Booster P119",
+      "zip": "Booster_Kama_Oxi.zip",
+      "size": 10875396,
+      "checksum_sha256": "a1d4ca9d2d5d52a31595238f3c945c46dc3e7c12b7cf503d36baa031b261955a",
+      "total_cards": 162,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Krystal_Boyd",
+      "name": "Booster P120",
+      "zip": "Booster_Krystal_Boyd.zip",
+      "size": 11483774,
+      "checksum_sha256": "8f2df70e851c2feed2647b756607118c83114451da0d3d67189af2a3cc52ffa2",
+      "total_cards": 171,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Rita_Peach",
+      "name": "Booster P121",
+      "zip": "Booster_Rita_Peach.zip",
+      "size": 11587762,
+      "checksum_sha256": "621f6cac77e358cd26efd55e08df4458254fce3ff6b610882e88703a71137794",
+      "total_cards": 167,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Keely_Rose",
+      "name": "Booster P122",
+      "zip": "Booster_Keely_Rose.zip",
+      "size": 11695967,
+      "checksum_sha256": "33fd394154f14bf07b7b501fae77628104e418d908aef731a572cb8a91cb6158",
+      "total_cards": 171,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Romi_Rain",
+      "name": "Booster P123",
+      "zip": "Booster_Romi_Rain.zip",
+      "size": 11441530,
+      "checksum_sha256": "06f5317e60ee6392bc6bea9555035781c033c8e7f1082fce0ebd6817b71b7970",
+      "total_cards": 165,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Bella_Luna",
+      "name": "Booster P124",
+      "zip": "Booster_Bella_Luna.zip",
+      "size": 10523352,
+      "checksum_sha256": "ec2b06b7f5ffe2f443f9a81882d3b7e17de9e0ff4980e23eb901234390693443",
+      "total_cards": 157,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Janice_Griffith",
+      "name": "Booster P125",
+      "zip": "Booster_Janice_Griffith.zip",
+      "size": 9916243,
+      "checksum_sha256": "f58e35433e2e55fd4146d0de0173243cc03082ccfecbe234d70dd9302d0b604d",
+      "total_cards": 147,
+      "total_persons": 53
+    },
+    {
+      "id": "Booster_Luna_Silver",
+      "name": "Booster P126",
+      "zip": "Booster_Luna_Silver.zip",
+      "size": 11791808,
+      "checksum_sha256": "9c2035943ea25673602ece9c4d51af41c6d1257779bb5d398b1a03984812f861",
+      "total_cards": 171,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Zafira",
+      "name": "Booster P127",
+      "zip": "Booster_Zafira.zip",
+      "size": 11754734,
+      "checksum_sha256": "bdb63aa69dfe5e8b42c2cd28f7f08990be45ec397a0591473a85bc38aabb1d4c",
+      "total_cards": 167,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Haley_Reed",
+      "name": "Booster P128",
+      "zip": "Booster_Haley_Reed.zip",
+      "size": 12128662,
+      "checksum_sha256": "62573f0ce3fb00876e401270ffbdd0e980d144ef3598b5c5153f20b2603b9a37",
+      "total_cards": 175,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Gigi_Dior",
+      "name": "Booster P129",
+      "zip": "Booster_Gigi_Dior.zip",
+      "size": 11406570,
+      "checksum_sha256": "ccd1bb72cb2996afac17ba1ee186cdd8765aaffa26afb9decbd1b29905edd927",
+      "total_cards": 168,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Danny_D",
+      "name": "Booster P130",
+      "zip": "Booster_Danny_D.zip",
+      "size": 11102281,
+      "checksum_sha256": "06fc506a877d703651f44d659f4fa1b6a36a77afac16423fcff2a25dcfffe88a",
+      "total_cards": 163,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Hazel_Moore",
+      "name": "Booster P131",
+      "zip": "Booster_Hazel_Moore.zip",
+      "size": 11522586,
+      "checksum_sha256": "1b3d0133359d799c831e7cbac6b924a63304f2305c361388484abf83c268fa20",
+      "total_cards": 170,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Kayley_Gunner",
+      "name": "Booster P132",
+      "zip": "Booster_Kayley_Gunner.zip",
+      "size": 11583936,
+      "checksum_sha256": "d95e71033da23288363e3a85ae3ffd4d3f03a2d75638045488b635fbbd12c260",
+      "total_cards": 165,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Sybil_A_Kailena",
+      "name": "Booster P133",
+      "zip": "Booster_Sybil_A_Kailena.zip",
+      "size": 11854007,
+      "checksum_sha256": "b0d9e655b953bc10525cb814e2e88c29061ccc975dbeb052f65f2af0de00096c",
+      "total_cards": 168,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Nicole_Love",
+      "name": "Booster P134",
+      "zip": "Booster_Nicole_Love.zip",
+      "size": 11891088,
+      "checksum_sha256": "3ca6b3d19bed0975a0b9487cb90ce67fcaa97e30e334940a712ef62a447ad79b",
+      "total_cards": 173,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Kylie_Morgan",
+      "name": "Booster P135",
+      "zip": "Booster_Kylie_Morgan.zip",
+      "size": 10512715,
+      "checksum_sha256": "b3d031f4b12754190dfe5365b254ac9ea097f1127cd9a63c20d8a788aab86855",
+      "total_cards": 161,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Tiffany_Taylor",
+      "name": "Booster P136",
+      "zip": "Booster_Tiffany_Taylor.zip",
+      "size": 12507376,
+      "checksum_sha256": "4f917509632d33879dedd3c30cfaad3cc3047b0f8063f0e154e73b1548d00952",
+      "total_cards": 175,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Angie_Faith",
+      "name": "Booster P137",
+      "zip": "Booster_Angie_Faith.zip",
+      "size": 12381829,
+      "checksum_sha256": "9999760f722f845b2f29d56024e792501b67196ba721874ba7cd617ae3a4f81e",
+      "total_cards": 175,
+      "total_persons": 61
+    },
+    {
+      "id": "Booster_Whitney_Wright",
+      "name": "Booster P138",
+      "zip": "Booster_Whitney_Wright.zip",
+      "size": 10832266,
+      "checksum_sha256": "2dcfe93bc265d0a52a91a6e5ff3886a984b66af41cbb8cdfb896592e6f2dbbc3",
+      "total_cards": 162,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Isis_Love",
+      "name": "Booster P139",
+      "zip": "Booster_Isis_Love.zip",
+      "size": 11294676,
+      "checksum_sha256": "2cfab822f1ea7567fd259767122bb331c9d4565411d309ea3824c83d83fe63b5",
+      "total_cards": 164,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Karma_Rx",
+      "name": "Booster P140",
+      "zip": "Booster_Karma_Rx.zip",
+      "size": 11443257,
+      "checksum_sha256": "aaf0a26dbde09b8f1e667c66a455d1ef8740eaec5b1bfaf44dca496644fc3cbb",
+      "total_cards": 169,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Antonia_Sainz",
+      "name": "Booster P141",
+      "zip": "Booster_Antonia_Sainz.zip",
+      "size": 12215147,
+      "checksum_sha256": "7416bda4cc77b90f9bca1fcacc24e85aa57884e5fa59275eacee7bd83e0a57df",
+      "total_cards": 174,
+      "total_persons": 61
+    },
+    {
+      "id": "Booster_Foxy_Di",
+      "name": "Booster P142",
+      "zip": "Booster_Foxy_Di.zip",
+      "size": 12158166,
+      "checksum_sha256": "36a80195f720d37b382d77c53cac95135057bf9b1278737834a3df92fc171b96",
+      "total_cards": 171,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Diamond_Jackson",
+      "name": "Booster P143",
+      "zip": "Booster_Diamond_Jackson.zip",
+      "size": 11536951,
+      "checksum_sha256": "c13ba0b19bea89e8dfb1306ca56b722a934c885c73c82f10e5ccb91150e9f5fd",
+      "total_cards": 164,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Jia_Lissa",
+      "name": "Booster P144",
+      "zip": "Booster_Jia_Lissa.zip",
+      "size": 10355511,
+      "checksum_sha256": "7869ab128ffbe4b289174f5537a0264c849bc471688fdeaeab3580e2b68ed868",
+      "total_cards": 148,
+      "total_persons": 52
+    },
+    {
+      "id": "Booster_Lilly_Bella",
+      "name": "Booster P145",
+      "zip": "Booster_Lilly_Bella.zip",
+      "size": 11286867,
+      "checksum_sha256": "0a31ab4b67a518cfd19fba52572b7048355767fe9afd3b3ad62c8b53cfc395c7",
+      "total_cards": 169,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Nickey_Huntsman",
+      "name": "Booster P146",
+      "zip": "Booster_Nickey_Huntsman.zip",
+      "size": 11473642,
+      "checksum_sha256": "f2a520f61be2407607a22dcea4bbbc25488d030075c4cb0054ce90deb2cb196e",
+      "total_cards": 164,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Anna_Bell_Peaks",
+      "name": "Booster P147",
+      "zip": "Booster_Anna_Bell_Peaks.zip",
+      "size": 11785656,
+      "checksum_sha256": "e8d7075b7b1c5c7db27af13c6ae6093c37312d290f06143ea79a10c96e4c136e",
+      "total_cards": 167,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Lexi_Belle",
+      "name": "Booster P148",
+      "zip": "Booster_Lexi_Belle.zip",
+      "size": 12423883,
+      "checksum_sha256": "234c8c3995a72f2a2469058ea998f92f337be99833f5cf074f538137fe77d52e",
+      "total_cards": 180,
+      "total_persons": 61
+    },
+    {
+      "id": "Booster_Kali_Roses",
+      "name": "Booster P149",
+      "zip": "Booster_Kali_Roses.zip",
+      "size": 11386663,
+      "checksum_sha256": "141451589c78bd3b13b5f0e5d17fc2c88c620efdb7d8091e5e42502da425003a",
+      "total_cards": 160,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Kimmy_Granger",
+      "name": "Booster P150",
+      "zip": "Booster_Kimmy_Granger.zip",
+      "size": 11954958,
+      "checksum_sha256": "c1fad0c855590b8dfba78e346ce2f9dc8c0eb8ad5ad2889fe1c9b28bb81cd264",
+      "total_cards": 175,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Kyler_Quinn",
+      "name": "Booster P151",
+      "zip": "Booster_Kyler_Quinn.zip",
+      "size": 11160308,
+      "checksum_sha256": "526485349be05eb014873e53f57d8d751c51181875c34ae84157dddf907d0f48",
+      "total_cards": 160,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Katrina_Moreno",
+      "name": "Booster P152",
+      "zip": "Booster_Katrina_Moreno.zip",
+      "size": 11719484,
+      "checksum_sha256": "50ed7333e4373281045c5b58d8b3ef6e64147a2d40fe3a19e2407a38d1f6f3a0",
+      "total_cards": 167,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Ashley_Lane",
+      "name": "Booster P153",
+      "zip": "Booster_Ashley_Lane.zip",
+      "size": 11709228,
+      "checksum_sha256": "c2923e6dc32d55a730a439aae483fbf8c5094aac814ef28ff687e7e1bfb1a558",
+      "total_cards": 165,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Rebecca_Volpetti",
+      "name": "Booster P154",
+      "zip": "Booster_Rebecca_Volpetti.zip",
+      "size": 11416263,
+      "checksum_sha256": "8459a641551b3380b94b8b3c6500a0dfc475b609c085e33e112ef755652c5d26",
+      "total_cards": 166,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Cherry_Kiss",
+      "name": "Booster P155",
+      "zip": "Booster_Cherry_Kiss.zip",
+      "size": 11803099,
+      "checksum_sha256": "95e8d9c5ed81e4f2448e3473b29c18d1d0cd82414986440ab6e5ce90b87cbd59",
+      "total_cards": 165,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Kimber_Woods",
+      "name": "Booster P156",
+      "zip": "Booster_Kimber_Woods.zip",
+      "size": 10812925,
+      "checksum_sha256": "da4f4ba916b284a2342d4ad8372e77215de3eb937a1c545f50abf4e049fcd1b3",
+      "total_cards": 161,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Emily_Addison",
+      "name": "Booster P157",
+      "zip": "Booster_Emily_Addison.zip",
+      "size": 11956696,
+      "checksum_sha256": "161bdd2aa64c09a75cb121bd432d40d832e2bb8348b942538375623e5e44fca4",
+      "total_cards": 173,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Stoya",
+      "name": "Booster P158",
+      "zip": "Booster_Stoya.zip",
+      "size": 11595792,
+      "checksum_sha256": "826a2901a179a089399943318337056606c17cd871fd2458b26db3d0155ab4ad",
+      "total_cards": 172,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Claire_Castel",
+      "name": "Booster P159",
+      "zip": "Booster_Claire_Castel.zip",
+      "size": 10259258,
+      "checksum_sha256": "04970b25ccb3d266ca1b9d11e711cab3efe0f5f50030f3853c43015b1f39cb25",
+      "total_cards": 154,
+      "total_persons": 53
+    },
+    {
+      "id": "Booster_Aaliyah_Hadid",
+      "name": "Booster P160",
+      "zip": "Booster_Aaliyah_Hadid.zip",
+      "size": 10108074,
+      "checksum_sha256": "d4c32a2c3987f3eaee07fc2fa748681173776d3058d5954631a9e4d87a1c8102",
+      "total_cards": 154,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Sarah_Vandella",
+      "name": "Booster P161",
+      "zip": "Booster_Sarah_Vandella.zip",
+      "size": 11086529,
+      "checksum_sha256": "77725f54d0eb63dad782c0888c74a98811734e6ac96f552139aae86f074f2e4a",
+      "total_cards": 162,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Kagney_Linn_Karter",
+      "name": "Booster P162",
+      "zip": "Booster_Kagney_Linn_Karter.zip",
+      "size": 11156083,
+      "checksum_sha256": "acd7e9e1a28b6b80de1e8d419905d0d433a4664ee8c302f03d849f699ac371da",
+      "total_cards": 167,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Liya_Silver",
+      "name": "Booster P163",
+      "zip": "Booster_Liya_Silver.zip",
+      "size": 11646747,
+      "checksum_sha256": "9f3df3b3808ae53b34498733133c2d39c27f4a6f08e633da2ba9748de5669ac3",
+      "total_cards": 170,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Clea_Gaultier",
+      "name": "Booster P164",
+      "zip": "Booster_Clea_Gaultier.zip",
+      "size": 11460178,
+      "checksum_sha256": "6187f103328ac8ba41fd18743763e3aee80e3c0f7411ee3ca1e179681831af4b",
+      "total_cards": 166,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Jennie_Rose",
+      "name": "Booster P165",
+      "zip": "Booster_Jennie_Rose.zip",
+      "size": 11396351,
+      "checksum_sha256": "35d6d3d368eb58a58aff49c61bedd52b3af3f9a2e9b9ea71c7bb25f286a8b188",
+      "total_cards": 165,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Pristine_Edge",
+      "name": "Booster P166",
+      "zip": "Booster_Pristine_Edge.zip",
+      "size": 11147147,
+      "checksum_sha256": "f717892430eae94ca2b9e6dd9cbbeb220f518c3d236555c11e0e79899afcb672",
+      "total_cards": 162,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Michelle_Anthony",
+      "name": "Booster P167",
+      "zip": "Booster_Michelle_Anthony.zip",
+      "size": 11665938,
+      "checksum_sha256": "0d5a950a51d476b672752ee978c18fa15548158b914d0aa95246a23a116a4b62",
+      "total_cards": 168,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Paola_Hard",
+      "name": "Booster P168",
+      "zip": "Booster_Paola_Hard.zip",
+      "size": 11518158,
+      "checksum_sha256": "d8eb0f93b4e812ffa4b179d39c3e2384870db92fcb6cafd3ec16af8284f4d3a9",
+      "total_cards": 169,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Victoria_June",
+      "name": "Booster P169",
+      "zip": "Booster_Victoria_June.zip",
+      "size": 12411714,
+      "checksum_sha256": "eec1e1aee801fc9dc66ca395a9acaa04b60c3be115b207eb0cd71e923e3f4b0e",
+      "total_cards": 179,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Jezabel_Vessir",
+      "name": "Booster P170",
+      "zip": "Booster_Jezabel_Vessir.zip",
+      "size": 11584410,
+      "checksum_sha256": "81ca8419b7ddd3ab8a5889ffb952591b9ce89d81a03311bf2d9ef8e5d51ec7fc",
+      "total_cards": 165,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_LaSirena69",
+      "name": "Booster P171",
+      "zip": "Booster_LaSirena69.zip",
+      "size": 11825661,
+      "checksum_sha256": "018eb1b444073b5199b0ee76d7b9889250f0d36712430afb7ac11165409a1247",
+      "total_cards": 174,
+      "total_persons": 61
+    },
+    {
+      "id": "Booster_Clara_Trinity",
+      "name": "Booster P172",
+      "zip": "Booster_Clara_Trinity.zip",
+      "size": 11969521,
+      "checksum_sha256": "c1b341ffc5d7c2d2ece8fa97796fdf5157379c0990e2849adc4be5b23da57ffb",
+      "total_cards": 180,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Abbie_Cat",
+      "name": "Booster P173",
+      "zip": "Booster_Abbie_Cat.zip",
+      "size": 10701153,
+      "checksum_sha256": "3578a1b93fd9eb3f0b79f1c7cb7ee1349e1cb5163bfcfd1c1ccc9aa8840aff03",
+      "total_cards": 152,
+      "total_persons": 53
+    },
+    {
+      "id": "Booster_Vanna_Bardot",
+      "name": "Booster P174",
+      "zip": "Booster_Vanna_Bardot.zip",
+      "size": 10433488,
+      "checksum_sha256": "ebf8daf0f4e7d3d675c0f926204d0a9c1fa7097f479abd7feb3c049878a3217f",
+      "total_cards": 158,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Goldie_Rush",
+      "name": "Booster P175",
+      "zip": "Booster_Goldie_Rush.zip",
+      "size": 11568764,
+      "checksum_sha256": "c8a7b9121e3f2c8f1d08c4cb1910e2b763bcfc700fb624a5768393e05130383a",
+      "total_cards": 170,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Melissa_Stratton",
+      "name": "Booster P176",
+      "zip": "Booster_Melissa_Stratton.zip",
+      "size": 11564464,
+      "checksum_sha256": "7a840ba177aa1dff72eaf639be665f7e359d0306115863bff013ad1d3cbc837a",
+      "total_cards": 168,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Silvia_Saint",
+      "name": "Booster P177",
+      "zip": "Booster_Silvia_Saint.zip",
+      "size": 12140386,
+      "checksum_sha256": "97a27fe6e1d0b9eae6fd3c6412a4cbc4c00c55f0bc0424a34c8ee93ccbd6b257",
+      "total_cards": 176,
+      "total_persons": 61
+    },
+    {
+      "id": "Booster_Agatha_Vega",
+      "name": "Booster P178",
+      "zip": "Booster_Agatha_Vega.zip",
+      "size": 11304804,
+      "checksum_sha256": "4ea93852a44441fcd8f27f235c3d11524c36efd073f87a81f4aac275fa1e0f27",
+      "total_cards": 169,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Naomi_Swan",
+      "name": "Booster P179",
+      "zip": "Booster_Naomi_Swan.zip",
+      "size": 12247771,
+      "checksum_sha256": "f527c2d0315d84203ab0136b10c10905ed495381d2bacd11812992d171d05e8e",
+      "total_cards": 174,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Kylie_Quinn",
+      "name": "Booster P180",
+      "zip": "Booster_Kylie_Quinn.zip",
+      "size": 12348818,
+      "checksum_sha256": "a020c35968242d5fd5c131bc582dd6cc417691cced2b09100726be5828feebb0",
+      "total_cards": 181,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Kira_Thorn",
+      "name": "Booster P181",
+      "zip": "Booster_Kira_Thorn.zip",
+      "size": 11819600,
+      "checksum_sha256": "6d4103a8d9927afd831fd976708fc8da05c78c3c13929cdec8300679031c91d1",
+      "total_cards": 173,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Pepper_Hart",
+      "name": "Booster P182",
+      "zip": "Booster_Pepper_Hart.zip",
+      "size": 11732256,
+      "checksum_sha256": "5a29d30b122be2ca57d062550014c769baa8b0bedda4bf1c920c5bb3a8ee7add",
+      "total_cards": 172,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Loren_Strawberry",
+      "name": "Booster P183",
+      "zip": "Booster_Loren_Strawberry.zip",
+      "size": 11675052,
+      "checksum_sha256": "0ac9389183537ef6d95aad77eb44078df324392401d182090dbc61037d442b20",
+      "total_cards": 168,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Chloe_Cherry",
+      "name": "Booster P184",
+      "zip": "Booster_Chloe_Cherry.zip",
+      "size": 11474519,
+      "checksum_sha256": "9ffd62c6f132c457511c54f32c93bbb46e686145c098ed3eef1a02615e802594",
+      "total_cards": 168,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Apolonia_Lapiedra",
+      "name": "Booster P185",
+      "zip": "Booster_Apolonia_Lapiedra.zip",
+      "size": 11835514,
+      "checksum_sha256": "58e800bc07541b83b840b1c881c10a12dae32cc0911fec2eb0165b9e5ad7dfe9",
+      "total_cards": 166,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Harley_Dean",
+      "name": "Booster P186",
+      "zip": "Booster_Harley_Dean.zip",
+      "size": 12618057,
+      "checksum_sha256": "45f7d50c580418b1ee983a6b95f6d8cf777c983d2f8c7e8654ad7fb9990b4c39",
+      "total_cards": 179,
+      "total_persons": 62
+    },
+    {
+      "id": "Booster_Blue_Angel",
+      "name": "Booster P187",
+      "zip": "Booster_Blue_Angel.zip",
+      "size": 10246017,
+      "checksum_sha256": "061d24ac46b34fbff97903c871a1235d73541a599d5645eb821075edad368c45",
+      "total_cards": 155,
+      "total_persons": 53
+    },
+    {
+      "id": "Booster_Hannah_Hays",
+      "name": "Booster P188",
+      "zip": "Booster_Hannah_Hays.zip",
+      "size": 9975503,
+      "checksum_sha256": "c3324554c834f3c61ea3e3d735267a083239eeedfbc77927ef314877c92495ad",
+      "total_cards": 146,
+      "total_persons": 51
+    },
+    {
+      "id": "Booster_Little_Angel",
+      "name": "Booster P189",
+      "zip": "Booster_Little_Angel.zip",
+      "size": 11465946,
+      "checksum_sha256": "0a77449995ed4ce99ee0c6aaca9f65735c3a98ecd61f715471fe30302829efc8",
+      "total_cards": 165,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Tru_Kait",
+      "name": "Booster P190",
+      "zip": "Booster_Tru_Kait.zip",
+      "size": 11799036,
+      "checksum_sha256": "afac96385a397c6cd1de6f3fdd513ab22d08f7492da3f8f15e6e2a45f5564ea5",
+      "total_cards": 172,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Natalia_Starr",
+      "name": "Booster P191",
+      "zip": "Booster_Natalia_Starr.zip",
+      "size": 11952930,
+      "checksum_sha256": "c8fee576321c5ee2718073abab1e346f63101fb589a98b22926200f1d0c18fad",
+      "total_cards": 177,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Joseline_Kelly",
+      "name": "Booster P192",
+      "zip": "Booster_Joseline_Kelly.zip",
+      "size": 12752958,
+      "checksum_sha256": "c3f514b44aad89ff2285550e4b68f1422d37803443241b70200fc4d856b15eb0",
+      "total_cards": 182,
+      "total_persons": 61
+    },
+    {
+      "id": "Booster_Aria_Valencia",
+      "name": "Booster P193",
+      "zip": "Booster_Aria_Valencia.zip",
+      "size": 10536476,
+      "checksum_sha256": "0a505beb0ef3ec0186aa263c42e2bcf3efde8f56524bc3f76f5d31902ac7ecd7",
+      "total_cards": 157,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Bella_Rolland",
+      "name": "Booster P194",
+      "zip": "Booster_Bella_Rolland.zip",
+      "size": 11212829,
+      "checksum_sha256": "7b04e108cd14c9a829b4f3f546a243d04226bc23e3892c2e8ca5cc858dbd8aba",
+      "total_cards": 163,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Abigail_Mac",
+      "name": "Booster P195",
+      "zip": "Booster_Abigail_Mac.zip",
+      "size": 11594577,
+      "checksum_sha256": "b5c2fbc6f631f6f83863c7d31c50dc6851a33fdd02ae4ad287320fac4afa96e9",
+      "total_cards": 166,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Jacky_Lawless",
+      "name": "Booster P196",
+      "zip": "Booster_Jacky_Lawless.zip",
+      "size": 11001860,
+      "checksum_sha256": "dc2fa6e1d6e1bf0990d1c380bcbfe9fb4d16c447583546deb943d015413d94fe",
+      "total_cards": 172,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Alexa_Grace",
+      "name": "Booster P197",
+      "zip": "Booster_Alexa_Grace.zip",
+      "size": 11131525,
+      "checksum_sha256": "d4ecc4b3b965c93f4504e54f82e6cf112d6e049e996a730e7b10f5ac871fa593",
+      "total_cards": 164,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Marry_Queen",
+      "name": "Booster P198",
+      "zip": "Booster_Marry_Queen.zip",
+      "size": 10454875,
+      "checksum_sha256": "5d2a6d3a876c96c51ae639bd65c7a3d5ba02e2feb924b857372c55b9a37dbf32",
+      "total_cards": 159,
+      "total_persons": 52
+    },
+    {
+      "id": "Booster_Brett_Rossi",
+      "name": "Booster P199",
+      "zip": "Booster_Brett_Rossi.zip",
+      "size": 11112554,
+      "checksum_sha256": "c31ae32e292b9fd32b6dbec3743f48582a276beda958c01ab40a6f65d1aaee04",
+      "total_cards": 157,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Maria_Kazi",
+      "name": "Booster P200",
+      "zip": "Booster_Maria_Kazi.zip",
+      "size": 11803183,
+      "checksum_sha256": "675748b93971c7306da9d8eb1c7839910153d99e6ee0fb6bdbf4d76afc46efc6",
+      "total_cards": 168,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Liza_Del_Sierra",
+      "name": "Booster P201",
+      "zip": "Booster_Liza_Del_Sierra.zip",
+      "size": 11035144,
+      "checksum_sha256": "1c80d876de67db6eb341cb4ad0a0bc9cfa7c745acb9b89a99c68e6f20193eaa4",
+      "total_cards": 167,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Vina_Sky",
+      "name": "Booster P202",
+      "zip": "Booster_Vina_Sky.zip",
+      "size": 12364692,
+      "checksum_sha256": "69acba90ea6e4e75b18752871e422e69bd01af0727398a5d37fa5f3d7a8a24b4",
+      "total_cards": 175,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Lumi_Ray",
+      "name": "Booster P203",
+      "zip": "Booster_Lumi_Ray.zip",
+      "size": 11781882,
+      "checksum_sha256": "db8304b0af46d8327b21382e8e5afe1b7da4a8cc77a46da9705383411460283e",
+      "total_cards": 166,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Nikki_Benz",
+      "name": "Booster P204",
+      "zip": "Booster_Nikki_Benz.zip",
+      "size": 12195621,
+      "checksum_sha256": "150844d10746a27f3d98273d6a6c0194d802ad6e8ddbaceae8759b3c314f5e52",
+      "total_cards": 178,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Lilly_Bell",
+      "name": "Booster P205",
+      "zip": "Booster_Lilly_Bell.zip",
+      "size": 11066471,
+      "checksum_sha256": "89b446d2d188b5c971d54f5eebe7014b91ed49a11537d4eb9cb135d1d5aa2ff1",
+      "total_cards": 170,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Athena_Faris",
+      "name": "Booster P206",
+      "zip": "Booster_Athena_Faris.zip",
+      "size": 10633314,
+      "checksum_sha256": "a314f0add7dd1fa1cba9d1e610a2adac06c67bf9ab2bb18f5388ea8d371ca40d",
+      "total_cards": 151,
+      "total_persons": 53
+    },
+    {
+      "id": "Booster_Armani_Black",
+      "name": "Booster P207",
+      "zip": "Booster_Armani_Black.zip",
+      "size": 11600767,
+      "checksum_sha256": "debc620e78241fbe7b0e1062a31c50c5a07eff90c07f58586c604e8ac4742dd7",
+      "total_cards": 168,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Mina_Sauvage",
+      "name": "Booster P208",
+      "zip": "Booster_Mina_Sauvage.zip",
+      "size": 11590468,
+      "checksum_sha256": "ef7676853d517d3ca0c747ac99ec2882807760dc77fb98fae8e8d8f11df54a2b",
+      "total_cards": 161,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Penelope_Kay",
+      "name": "Booster P209",
+      "zip": "Booster_Penelope_Kay.zip",
+      "size": 12242556,
+      "checksum_sha256": "35a695b01954b9361c8b8b75c825aedaa189a4a5782e0cb67392af9566289e11",
+      "total_cards": 173,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Karlee_Grey",
+      "name": "Booster P210",
+      "zip": "Booster_Karlee_Grey.zip",
+      "size": 12109465,
+      "checksum_sha256": "670ea4a5158352d3dce044bfb741095dcf8c61e0e6fd73a39f4b2318a799a4c2",
+      "total_cards": 166,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Lexi_Lore",
+      "name": "Booster P211",
+      "zip": "Booster_Lexi_Lore.zip",
+      "size": 11200280,
+      "checksum_sha256": "435084d9781922721dcec8341a9a9c7e7df5a9f46d6b4cd58633b472935bb3ae",
+      "total_cards": 163,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Lily_LaBeau",
+      "name": "Booster P212",
+      "zip": "Booster_Lily_LaBeau.zip",
+      "size": 11841711,
+      "checksum_sha256": "d31601d6ba50c85efb0f1f8a259f8c85f1a564954cbe7dbff130ec4a681df2e3",
+      "total_cards": 172,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Lottie_Magne",
+      "name": "Booster P213",
+      "zip": "Booster_Lottie_Magne.zip",
+      "size": 11336841,
+      "checksum_sha256": "c9f1f4bd45920d7d9ffb0ce25c317af6d0840e37b887e312fc6735a4b7727fbe",
+      "total_cards": 168,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Khloe_Kingsley",
+      "name": "Booster P214",
+      "zip": "Booster_Khloe_Kingsley.zip",
+      "size": 10915518,
+      "checksum_sha256": "aa8aae9621ea0f255b3ff44ddaf1aa702df93cd09f995c7e942f33e8b4682267",
+      "total_cards": 156,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Ivy_Wolfe",
+      "name": "Booster P215",
+      "zip": "Booster_Ivy_Wolfe.zip",
+      "size": 11930410,
+      "checksum_sha256": "2d13233a8e7dbe30d6fabafa07a7e8102ab9cc03ba04b0ea31ce1c4280478d33",
+      "total_cards": 168,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Amber_Stark",
+      "name": "Booster P216",
+      "zip": "Booster_Amber_Stark.zip",
+      "size": 11370692,
+      "checksum_sha256": "fba7a31f1d18aaea7afd362b90b96be1d903b0cc5cf2435c1065a9a7d81430a5",
+      "total_cards": 162,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Paisley_Rae",
+      "name": "Booster P217",
+      "zip": "Booster_Paisley_Rae.zip",
+      "size": 10576330,
+      "checksum_sha256": "677ae87dd2bd2309cba2416d0ce2337b3bf8ffb93bdc42c8abd99bfd5036a68c",
+      "total_cards": 158,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Casey_Calvert",
+      "name": "Booster P218",
+      "zip": "Booster_Casey_Calvert.zip",
+      "size": 11820440,
+      "checksum_sha256": "3acf15b7f73daeec4654b50852a55fe76d94a992c1cbbded5ae740614fef36f7",
+      "total_cards": 171,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Madison_Scott",
+      "name": "Booster P219",
+      "zip": "Booster_Madison_Scott.zip",
+      "size": 10478017,
+      "checksum_sha256": "380231e44e309a7a64976ff706912a9b7c39b592fd0468bc231f211c26ed9514",
+      "total_cards": 162,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Christy_Mack",
+      "name": "Booster P220",
+      "zip": "Booster_Christy_Mack.zip",
+      "size": 12399975,
+      "checksum_sha256": "4064eaf971deeb1a1ca33b11b21292115c15d9278d635bf1195578ddd58dca0d",
+      "total_cards": 171,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Adria_Rae",
+      "name": "Booster P221",
+      "zip": "Booster_Adria_Rae.zip",
+      "size": 10769679,
+      "checksum_sha256": "a496950ddbbc4717978db593e5603f6e5ea1103e65b6fc3aa0b3ca5e13d9b7e2",
+      "total_cards": 155,
+      "total_persons": 53
+    },
+    {
+      "id": "Booster_Samantha_Saint",
+      "name": "Booster P222",
+      "zip": "Booster_Samantha_Saint.zip",
+      "size": 13191986,
+      "checksum_sha256": "e4b0e3d02eae2d6a03cefcdd5de0d84580abc9da72f9617bd588eb69b4f09e11",
+      "total_cards": 183,
+      "total_persons": 61
+    },
+    {
+      "id": "Booster_Elena_Koshka",
+      "name": "Booster P223",
+      "zip": "Booster_Elena_Koshka.zip",
+      "size": 11373467,
+      "checksum_sha256": "9744ede1abf5e37b1d1192446126ee67723078f1d6b1b3aec2c1fdbcdaf2bdaf",
+      "total_cards": 166,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Angel_Windell",
+      "name": "Booster P224",
+      "zip": "Booster_Angel_Windell.zip",
+      "size": 10253399,
+      "checksum_sha256": "2a3a4367267c96edd32ba6ffdd23b06b9a73d3005b5e8b0ae6708cb58b4e409c",
+      "total_cards": 155,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Jessica_Starling",
+      "name": "Booster P225",
+      "zip": "Booster_Jessica_Starling.zip",
+      "size": 10968339,
+      "checksum_sha256": "9d00bc7b98ecd40bb528110ec3b8ff7ce29eae3694dcf8880edec92ae950740f",
+      "total_cards": 165,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Scarlet_Skies",
+      "name": "Booster P226",
+      "zip": "Booster_Scarlet_Skies.zip",
+      "size": 10809039,
+      "checksum_sha256": "3b082b5a8015ee3564d6272cf2ad0afdde46da7e04347032b11d32d9832a5d2b",
+      "total_cards": 156,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Alexis_Tae",
+      "name": "Booster P227",
+      "zip": "Booster_Alexis_Tae.zip",
+      "size": 10952895,
+      "checksum_sha256": "5263d64b58f7155fa2448a31b3923d3bde36685835407ebfb013b1ea21a70c9e",
+      "total_cards": 162,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Nathaly_Cherie",
+      "name": "Booster P228",
+      "zip": "Booster_Nathaly_Cherie.zip",
+      "size": 11965664,
+      "checksum_sha256": "d135669020df4e758769fccbc1dd2be48c5896cd925392c1b5a63a57ee42e918",
+      "total_cards": 174,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Ashlynn_Brooke",
+      "name": "Booster P229",
+      "zip": "Booster_Ashlynn_Brooke.zip",
+      "size": 11331244,
+      "checksum_sha256": "a413cad90462aac53fb2fc53fb1b5b2e11ad5891af9e756a621e6f30a2145d62",
+      "total_cards": 164,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Serena_Hill",
+      "name": "Booster P230",
+      "zip": "Booster_Serena_Hill.zip",
+      "size": 11375451,
+      "checksum_sha256": "daac5950e883fd503747ad4eb2d4e281329bfad442993b0055275c3baea07505",
+      "total_cards": 168,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Gracie_Glam",
+      "name": "Booster P231",
+      "zip": "Booster_Gracie_Glam.zip",
+      "size": 12090527,
+      "checksum_sha256": "a3dfbdf5a5b24da9dc59bbbe8715e1b01e24192324733b73ccf373eab333e14b",
+      "total_cards": 170,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Jordan_Maxx",
+      "name": "Booster P232",
+      "zip": "Booster_Jordan_Maxx.zip",
+      "size": 10515614,
+      "checksum_sha256": "bdc3640eb3d6fde5c8b08c089eea54e7de205b2d71ac354fdb3e005659e9851b",
+      "total_cards": 152,
+      "total_persons": 51
+    },
+    {
+      "id": "Booster_Vinna_Reed",
+      "name": "Booster P233",
+      "zip": "Booster_Vinna_Reed.zip",
+      "size": 12859539,
+      "checksum_sha256": "0f6d315b774b96220c4dc060a6abdbfc17f6dda552005f7e0e13038a44382f6b",
+      "total_cards": 186,
+      "total_persons": 61
+    },
+    {
+      "id": "Booster_Aria_Alexander",
+      "name": "Booster P234",
+      "zip": "Booster_Aria_Alexander.zip",
+      "size": 11438503,
+      "checksum_sha256": "b7343c3ef9feca72005e1b810fffdd26b7548c2ffc9c71724c293a074c9590a8",
+      "total_cards": 166,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Vanessa_Sky",
+      "name": "Booster P235",
+      "zip": "Booster_Vanessa_Sky.zip",
+      "size": 11367914,
+      "checksum_sha256": "9b61d5fe18a63ea5847bc869800a41fa66b55662af4bb88d2272d967dcaf635b",
+      "total_cards": 169,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Nina_Elle",
+      "name": "Booster P236",
+      "zip": "Booster_Nina_Elle.zip",
+      "size": 10658021,
+      "checksum_sha256": "8c8c4219895eb10ff2a8355b69c9c0249595204deb46a6e9560314ce9aeafa84",
+      "total_cards": 153,
+      "total_persons": 52
+    },
+    {
+      "id": "Booster_Kylie_Rocket",
+      "name": "Booster P237",
+      "zip": "Booster_Kylie_Rocket.zip",
+      "size": 11702020,
+      "checksum_sha256": "eb8e38bbc7b5404e83e2a9a5107cc7d687c6fdae8cf9afd4e46af8931b180896",
+      "total_cards": 165,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Silvia_Jons",
+      "name": "Booster P238",
+      "zip": "Booster_Silvia_Jons.zip",
+      "size": 10806002,
+      "checksum_sha256": "4e604962ac82f06f849cd355a08ff535a9d43cf670e4728f43e26484fa61bb02",
+      "total_cards": 161,
+      "total_persons": 53
+    },
+    {
+      "id": "Booster_Shae_Summers",
+      "name": "Booster P239",
+      "zip": "Booster_Shae_Summers.zip",
+      "size": 11648737,
+      "checksum_sha256": "8a08a455e9bb41a1477e95ab10ac81e839fdafa85dc9837463db552e294b79d8",
+      "total_cards": 172,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Mia_Melano",
+      "name": "Booster P240",
+      "zip": "Booster_Mia_Melano.zip",
+      "size": 11950367,
+      "checksum_sha256": "90661684dfe6421c6a2bc359e950587a7b58b3fe153a5d18c6890808d41b09e0",
+      "total_cards": 169,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Lily_Larimar",
+      "name": "Booster P241",
+      "zip": "Booster_Lily_Larimar.zip",
+      "size": 12507940,
+      "checksum_sha256": "e9a454c744aa8007e6ea53630e2ad36523cbea54ed4f09392b115cec90b83eb4",
+      "total_cards": 176,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Tiffany_Star",
+      "name": "Booster P242",
+      "zip": "Booster_Tiffany_Star.zip",
+      "size": 10640771,
+      "checksum_sha256": "290462bcf2bacdaf40e10c804b961dfd25b20d73d43ad1cb3ebe9bca3f1a8746",
+      "total_cards": 163,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Michele_James",
+      "name": "Booster P243",
+      "zip": "Booster_Michele_James.zip",
+      "size": 11345133,
+      "checksum_sha256": "97ab47f3cc9e4c2ce20a70dda32a35bf17227d121ee7f058c33078f184ac9517",
+      "total_cards": 162,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Rachel_Rivers",
+      "name": "Booster P244",
+      "zip": "Booster_Rachel_Rivers.zip",
+      "size": 11466306,
+      "checksum_sha256": "753d8db4a00cf7f10a28ab045169cd721efa1aca77f65de9cb1d499ab0fd70a5",
+      "total_cards": 170,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Ashlyn_Angel",
+      "name": "Booster P245",
+      "zip": "Booster_Ashlyn_Angel.zip",
+      "size": 11901908,
+      "checksum_sha256": "96e079813b17774117050b97d54078d6350ec8731c20f527bbab5a65c5405eef",
+      "total_cards": 176,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Nata_Ocean",
+      "name": "Booster P246",
+      "zip": "Booster_Nata_Ocean.zip",
+      "size": 10845591,
+      "checksum_sha256": "65dfce45240061e503db5e8132e1d0c23196e1afe7f55caf317fb07821794e81",
+      "total_cards": 163,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Katrina_Jade",
+      "name": "Booster P247",
+      "zip": "Booster_Katrina_Jade.zip",
+      "size": 11200282,
+      "checksum_sha256": "abf5e46cce32b1d033fe8c3b4f596036eafbe6227adaf2617350c111b6a0b403",
+      "total_cards": 166,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Sonya_Blaze",
+      "name": "Booster P248",
+      "zip": "Booster_Sonya_Blaze.zip",
+      "size": 11197830,
+      "checksum_sha256": "97c978ed16c092d15db591961f1924324b557ebc90b6f468cf1f6d51129f89d7",
+      "total_cards": 159,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Faye_Reagan",
+      "name": "Booster P249",
+      "zip": "Booster_Faye_Reagan.zip",
+      "size": 11230886,
+      "checksum_sha256": "76d9418422923cd72d77a0adf73202857dd1b02b1d96d2752839ae55fb708b23",
+      "total_cards": 163,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Bunny_Colby",
+      "name": "Booster P250",
+      "zip": "Booster_Bunny_Colby.zip",
+      "size": 10932518,
+      "checksum_sha256": "6fc2bf56adc7394dd2a25473c934f92270a18352652778a1a8c0ff51de0a668e",
+      "total_cards": 163,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Nina_North",
+      "name": "Booster P251",
+      "zip": "Booster_Nina_North.zip",
+      "size": 11830261,
+      "checksum_sha256": "2c536ca6cd71148fc8e40844c768f15c8e7577eb3dd40694d64a84ec667b1deb",
+      "total_cards": 163,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Daisy_Marie",
+      "name": "Booster P252",
+      "zip": "Booster_Daisy_Marie.zip",
+      "size": 11346551,
+      "checksum_sha256": "176dd147bb2c106e14ca5b8a8f7bc2ec9f0f216a168d3691c29e28b3e150015f",
+      "total_cards": 170,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Anny_Aurora",
+      "name": "Booster P253",
+      "zip": "Booster_Anny_Aurora.zip",
+      "size": 11276063,
+      "checksum_sha256": "d624aabb5acba0ff8b8dd087a2d2685daebf519030601250bbf7b1eb6692f2a3",
+      "total_cards": 162,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Mazy_Myers",
+      "name": "Booster P254",
+      "zip": "Booster_Mazy_Myers.zip",
+      "size": 9567005,
+      "checksum_sha256": "d443ecbe37320a8016eb7720974b2165da7b3e207bee5618d3d71aef66dcf741",
+      "total_cards": 146,
+      "total_persons": 52
+    },
+    {
+      "id": "Booster_Jane_Darling",
+      "name": "Booster P255",
+      "zip": "Booster_Jane_Darling.zip",
+      "size": 11381314,
+      "checksum_sha256": "976a364102d951b92c6a373557855ce37a375453e465e20c0959699a7ef66779",
+      "total_cards": 161,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Audrey_Bitoni",
+      "name": "Booster P256",
+      "zip": "Booster_Audrey_Bitoni.zip",
+      "size": 12073928,
+      "checksum_sha256": "39a51fe6bbfe15b903d5541d4d4b1de8e4819222372f8085bf381f308723b414",
+      "total_cards": 170,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Jamie_Michelle",
+      "name": "Booster P257",
+      "zip": "Booster_Jamie_Michelle.zip",
+      "size": 11955101,
+      "checksum_sha256": "0250885319b7f4ed2965ab0a83a4721f5f163c2efac495213cb5bca9f908bc52",
+      "total_cards": 175,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Veronica_Rodriguez",
+      "name": "Booster P258",
+      "zip": "Booster_Veronica_Rodriguez.zip",
+      "size": 11114742,
+      "checksum_sha256": "273ead3f0380fceda72196635129bd55357f0bd618e479f04d4169d422ae5338",
+      "total_cards": 164,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Barbie_Brill",
+      "name": "Booster P259",
+      "zip": "Booster_Barbie_Brill.zip",
+      "size": 10402381,
+      "checksum_sha256": "80fa6158e581ae9d7283edee38699e4de7af95ea09b609156ccd0c51762554e0",
+      "total_cards": 151,
+      "total_persons": 52
+    },
+    {
+      "id": "Booster_Blanche_Bradburry",
+      "name": "Booster P260",
+      "zip": "Booster_Blanche_Bradburry.zip",
+      "size": 10366243,
+      "checksum_sha256": "f6264d23895cd8c5af9feb39eca257efdc76e3ab2de56660565bcba71e6926a9",
+      "total_cards": 151,
+      "total_persons": 52
+    },
+    {
+      "id": "Booster_Isis_Taylor",
+      "name": "Booster P261",
+      "zip": "Booster_Isis_Taylor.zip",
+      "size": 10672137,
+      "checksum_sha256": "aadb517d138970450eeb231d164a402c3bd87b4f8fee97cb83ba8209655b7241",
+      "total_cards": 160,
+      "total_persons": 53
+    },
+    {
+      "id": "Booster_Lacy_Lennon",
+      "name": "Booster P262",
+      "zip": "Booster_Lacy_Lennon.zip",
+      "size": 11253731,
+      "checksum_sha256": "948bf68344dc3c4253e423fbce7200de8d4165e6f4a6446a53c580f6f4da0b5a",
+      "total_cards": 161,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Olivia_Sparkle",
+      "name": "Booster P263",
+      "zip": "Booster_Olivia_Sparkle.zip",
+      "size": 12076665,
+      "checksum_sha256": "4348b0d1278fc1f1eb2429c614a205256dbc48d46e06a450e1d57867ccd3d260",
+      "total_cards": 175,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Alli_Rae",
+      "name": "Booster P264",
+      "zip": "Booster_Alli_Rae.zip",
+      "size": 12012262,
+      "checksum_sha256": "54f689ea72b78ad77ba228d377eb4582e10c1ab93a15ae7c3cfb0e0944b25720",
+      "total_cards": 173,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Jillian_Janson",
+      "name": "Booster P265",
+      "zip": "Booster_Jillian_Janson.zip",
+      "size": 11261994,
+      "checksum_sha256": "1ef730e31dae605f6649803c86edc2cc7f30e491c9a8888624810b80cadc7b6c",
+      "total_cards": 165,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Diana_Doll",
+      "name": "Booster P266",
+      "zip": "Booster_Diana_Doll.zip",
+      "size": 11949453,
+      "checksum_sha256": "7706df3d6b4051ee1b00ef2b514c3806fc250877db3992ddcd9cb651acbf37f7",
+      "total_cards": 178,
+      "total_persons": 61
+    },
+    {
+      "id": "Booster_Eveline_Dellai",
+      "name": "Booster P267",
+      "zip": "Booster_Eveline_Dellai.zip",
+      "size": 11862667,
+      "checksum_sha256": "6efe6fd775b2ddc6e9ea22277feb65587f62cf2989e570688b8c637622c78323",
+      "total_cards": 172,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Gianna_Dior",
+      "name": "Booster P268",
+      "zip": "Booster_Gianna_Dior.zip",
+      "size": 11310926,
+      "checksum_sha256": "69468ab73ec49ff176010d42f0156cc7c3f96985247ae3bbd2199b469dbcf278",
+      "total_cards": 165,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Hime_Marie",
+      "name": "Booster P269",
+      "zip": "Booster_Hime_Marie.zip",
+      "size": 10534991,
+      "checksum_sha256": "bb7a6ca5f6e2b048543778b0a24456dac6ca8f5c43bf60f62098b70fde208784",
+      "total_cards": 155,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Viola_Bailey",
+      "name": "Booster P270",
+      "zip": "Booster_Viola_Bailey.zip",
+      "size": 11904616,
+      "checksum_sha256": "056881d6419284200cf25efd1bbe1e85d84e76ce34284bdd06049b5ef5730ce2",
+      "total_cards": 169,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Jodi_West",
+      "name": "Booster P271",
+      "zip": "Booster_Jodi_West.zip",
+      "size": 11630362,
+      "checksum_sha256": "d03012a9c5206cdb1a9d7f95faa80073a6fff1038ee278ef458f1a5402a5cc1a",
+      "total_cards": 171,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Lucy_Doll",
+      "name": "Booster P272",
+      "zip": "Booster_Lucy_Doll.zip",
+      "size": 11580996,
+      "checksum_sha256": "43a50c5dc55d493041c2be157ed6312d1771729bfa13a9dff87d9ce620f72635",
+      "total_cards": 167,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Stormy_Daniels",
+      "name": "Booster P273",
+      "zip": "Booster_Stormy_Daniels.zip",
+      "size": 11884115,
+      "checksum_sha256": "f57c57e43f493fe96dd4a3cc859630b9594244f76d5ff4a7f659951e176681b3",
+      "total_cards": 163,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Tristan_Taylor",
+      "name": "Booster P274",
+      "zip": "Booster_Tristan_Taylor.zip",
+      "size": 11390831,
+      "checksum_sha256": "4eb9b9f910256165ce097cc7c7bd6d0bc8423ec43f74044030e58ae6f061e430",
+      "total_cards": 165,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Sky_Bri",
+      "name": "Booster P275",
+      "zip": "Booster_Sky_Bri.zip",
+      "size": 10988458,
+      "checksum_sha256": "c25dff266275feb99aa55482da3b29e55ec94873c5bc4fb881928b2cc7a8a749",
+      "total_cards": 155,
+      "total_persons": 53
+    },
+    {
+      "id": "Booster_Kayla_Kayden",
+      "name": "Booster P276",
+      "zip": "Booster_Kayla_Kayden.zip",
+      "size": 12039375,
+      "checksum_sha256": "bb75b3d757bd07ecb63685b85d2e96b8b3abf3931970acbaa4acabbbe54fc7d4",
+      "total_cards": 176,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Cassie_Del_Isla",
+      "name": "Booster P277",
+      "zip": "Booster_Cassie_Del_Isla.zip",
+      "size": 12016226,
+      "checksum_sha256": "9872fbb4fcd30468cdf4d39c46aa9ef2fedfe1460708f47c9ca0f0140bdbc153",
+      "total_cards": 174,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Leya_Desantis",
+      "name": "Booster P278",
+      "zip": "Booster_Leya_Desantis.zip",
+      "size": 11422987,
+      "checksum_sha256": "04901cf757de0b0f46cfbeb14be48e89577b8d455ab833bddcc9765f250151b4",
+      "total_cards": 161,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Tiffany_Thompson",
+      "name": "Booster P279",
+      "zip": "Booster_Tiffany_Thompson.zip",
+      "size": 11892533,
+      "checksum_sha256": "bc0b5f9be3767c8a193a6e00baa56d236ee559b05abc51d504eb6b16de561b62",
+      "total_cards": 166,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Charlie_Forde",
+      "name": "Booster P280",
+      "zip": "Booster_Charlie_Forde.zip",
+      "size": 10655918,
+      "checksum_sha256": "c080edf2136f24671ebc93c94b8951da4860906c01f675bf7d6aaa3b04c85b46",
+      "total_cards": 160,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Ashley_Adams",
+      "name": "Booster P281",
+      "zip": "Booster_Ashley_Adams.zip",
+      "size": 11549334,
+      "checksum_sha256": "1aebf52d24952657241b970b555caf8acc9ecfb23a227aba0e430f37b99734cf",
+      "total_cards": 161,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Malena_Morgan",
+      "name": "Booster P282",
+      "zip": "Booster_Malena_Morgan.zip",
+      "size": 12448136,
+      "checksum_sha256": "87d1cb188fa32849ea76cf848d5f0e98f7706ca7aa539d42888aab90d57dd7de",
+      "total_cards": 179,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Vanessa_Alessia",
+      "name": "Booster P283",
+      "zip": "Booster_Vanessa_Alessia.zip",
+      "size": 12065049,
+      "checksum_sha256": "486ab3f966c268a9a707c76d91e445ce8fe9eb78cc3d0da686d26153cea0023d",
+      "total_cards": 169,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Rebel_Lynn",
+      "name": "Booster P284",
+      "zip": "Booster_Rebel_Lynn.zip",
+      "size": 12213948,
+      "checksum_sha256": "c7ac8ed86b094ae653696b4f87b6ef343122878a41a9ffadd3f32d48958a1efe",
+      "total_cards": 171,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Angel_Dark",
+      "name": "Booster P285",
+      "zip": "Booster_Angel_Dark.zip",
+      "size": 12155322,
+      "checksum_sha256": "44fa07476f0ad24d408158549d31222042ab8b54fc816e5c675c51abd1b57dc9",
+      "total_cards": 172,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Violet_Starr",
+      "name": "Booster P286",
+      "zip": "Booster_Violet_Starr.zip",
+      "size": 11466374,
+      "checksum_sha256": "5e43bbea84223fbcf714d8fee528b6b7f10585d06116ee449151d1ee30dc2277",
+      "total_cards": 164,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Kylie_Page",
+      "name": "Booster P287",
+      "zip": "Booster_Kylie_Page.zip",
+      "size": 11524063,
+      "checksum_sha256": "134a0021b05a89d2278f6bdedd6d2d2b271656ba7bb162b48618e91218892154",
+      "total_cards": 164,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Amy_Reid",
+      "name": "Booster P288",
+      "zip": "Booster_Amy_Reid.zip",
+      "size": 11399567,
+      "checksum_sha256": "857c887768a9dc5797d6d1a6c50fe7083763454ca2529cf6af0c0dfa5b52e015",
+      "total_cards": 164,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Emma_White",
+      "name": "Booster P289",
+      "zip": "Booster_Emma_White.zip",
+      "size": 11839690,
+      "checksum_sha256": "a30c69752dfae14e62cebf9cd1c540e6c2bed32161ac525d5279a16892e42708",
+      "total_cards": 170,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Athena_Palomino",
+      "name": "Booster P290",
+      "zip": "Booster_Athena_Palomino.zip",
+      "size": 11118873,
+      "checksum_sha256": "470bef984b96611208e2d9d6b7da750998714535ff8b0c6bef89b21dedb42b7c",
+      "total_cards": 163,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Oxana_Chic",
+      "name": "Booster P291",
+      "zip": "Booster_Oxana_Chic.zip",
+      "size": 11785776,
+      "checksum_sha256": "bb14427b846359ed4332ee0be5f997db2082e87ceb93238a6048fb43d0a260f0",
+      "total_cards": 169,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Celeste_Star",
+      "name": "Booster P292",
+      "zip": "Booster_Celeste_Star.zip",
+      "size": 11359228,
+      "checksum_sha256": "7edde51699f9b1ac28e8d0ed61fcd4762c23fe752d171d7786e8141b91d8e89d",
+      "total_cards": 163,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Jenna_Jameson",
+      "name": "Booster P293",
+      "zip": "Booster_Jenna_Jameson.zip",
+      "size": 11872561,
+      "checksum_sha256": "6ba52891badd5c308e1fa82aceeec65c1314581ae09aaeb0350812f960f208c9",
+      "total_cards": 167,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Kayden_Kross",
+      "name": "Booster P294",
+      "zip": "Booster_Kayden_Kross.zip",
+      "size": 12599894,
+      "checksum_sha256": "73eaa714a56df715f43d9433d11b3896a0bb760a4691f5a4cb3a428b899f5d25",
+      "total_cards": 172,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Lucy_Li",
+      "name": "Booster P295",
+      "zip": "Booster_Lucy_Li.zip",
+      "size": 11189041,
+      "checksum_sha256": "9fb4e6e0d30522bd55a7b003298e5c9ebb9d991f9147d69855e2648b3a74b606",
+      "total_cards": 160,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Eden_Ivy",
+      "name": "Booster P296",
+      "zip": "Booster_Eden_Ivy.zip",
+      "size": 11151074,
+      "checksum_sha256": "ecb6d5137d86defc2e12519e2ed1ed2fcd430f5f09ccf3ffaae33e978b95ddcf",
+      "total_cards": 158,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Liz_Ocean",
+      "name": "Booster P297",
+      "zip": "Booster_Liz_Ocean.zip",
+      "size": 11538242,
+      "checksum_sha256": "5dd5d022b7f8c37a1df22e9cd9d55109f524bb8ea36619cd001cf2644dcad48a",
+      "total_cards": 168,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Dava_Foxx",
+      "name": "Booster P298",
+      "zip": "Booster_Dava_Foxx.zip",
+      "size": 12056720,
+      "checksum_sha256": "c07635915448a70f177c49f4bd99a73cd82f18c6e1eb00db70f1be9870672fc9",
+      "total_cards": 172,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Jade_Kimiko",
+      "name": "Booster P299",
+      "zip": "Booster_Jade_Kimiko.zip",
+      "size": 11528428,
+      "checksum_sha256": "8015631480e462c4f7a5e52b3464a10515850be2fac91e29afa5b59960efe871",
+      "total_cards": 168,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Freya_Mayer",
+      "name": "Booster P300",
+      "zip": "Booster_Freya_Mayer.zip",
+      "size": 13043250,
+      "checksum_sha256": "3b076052646ec01d92b14e0c4bb860e4d5913e7f94dbc5b92c0bedbf0aa37d6c",
+      "total_cards": 182,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Jessie_Way",
+      "name": "Booster P301",
+      "zip": "Booster_Jessie_Way.zip",
+      "size": 10322956,
+      "checksum_sha256": "7a079a5e971f5ca0ab60bdee9c6912861b3af65641d8a37c7b813a1c842de0fd",
+      "total_cards": 151,
+      "total_persons": 51
+    },
+    {
+      "id": "Booster_Alex_Coal",
+      "name": "Booster P302",
+      "zip": "Booster_Alex_Coal.zip",
+      "size": 11444023,
+      "checksum_sha256": "2739e4a82b15f0adc4be290cc18ac45a9fce78a8fcf8ac28559d817248818ea9",
+      "total_cards": 168,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Connie_Carter",
+      "name": "Booster P303",
+      "zip": "Booster_Connie_Carter.zip",
+      "size": 11423217,
+      "checksum_sha256": "d4aa9fc82d2ba3af339352d1bf1ee4c933538714d89406403f1cd484f7fd1011",
+      "total_cards": 166,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Ali_Rose",
+      "name": "Booster P304",
+      "zip": "Booster_Ali_Rose.zip",
+      "size": 11372295,
+      "checksum_sha256": "e23bc83e9811263c4573179e5994d065e8dc3b7918d0bfd8ba312778748b9f5f",
+      "total_cards": 159,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Candee_Licious",
+      "name": "Booster P305",
+      "zip": "Booster_Candee_Licious.zip",
+      "size": 11232245,
+      "checksum_sha256": "e1d73004b9de44256a61bd832b47f74969eee520a1e25608f7dfd333ee813729",
+      "total_cards": 162,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Lola_Myluv",
+      "name": "Booster P306",
+      "zip": "Booster_Lola_Myluv.zip",
+      "size": 11659305,
+      "checksum_sha256": "830b6f78f27f5204be42e500e9c5bce90d88d65fb47b6cf3e643ba2f1dced79a",
+      "total_cards": 166,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Amia_Miley",
+      "name": "Booster P307",
+      "zip": "Booster_Amia_Miley.zip",
+      "size": 11878421,
+      "checksum_sha256": "0616f5106f21a4497e0098232de5f60a8d3e9682c3466052f148fe00e9e34718",
+      "total_cards": 169,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Esperanza_Gomez",
+      "name": "Booster P308",
+      "zip": "Booster_Esperanza_Gomez.zip",
+      "size": 10702603,
+      "checksum_sha256": "34e7d84b6738b48d791187e5696355af9fd60365f94f5973bfce4e7200d52323",
+      "total_cards": 161,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Tiffany_Tatum",
+      "name": "Booster P309",
+      "zip": "Booster_Tiffany_Tatum.zip",
+      "size": 10542882,
+      "checksum_sha256": "ee68daf939c4ce58d89801dc5d1862e1016eb0312211d1881dd309d030d86483",
+      "total_cards": 156,
+      "total_persons": 54
+    },
+    {
+      "id": "Booster_Renata_Daninsky",
+      "name": "Booster P310",
+      "zip": "Booster_Renata_Daninsky.zip",
+      "size": 11304847,
+      "checksum_sha256": "16643a9944793c55e40d729fd2c6c7c8c8175630ce16fcb9b66ff002e5afbefe",
+      "total_cards": 165,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Krystal_Webb",
+      "name": "Booster P311",
+      "zip": "Booster_Krystal_Webb.zip",
+      "size": 12165336,
+      "checksum_sha256": "2c509d4247ff0d5ec76d14b4ba594763809c26b0dfa78ef680a6252f1679a8a2",
+      "total_cards": 175,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Lanny_Barbie",
+      "name": "Booster P312",
+      "zip": "Booster_Lanny_Barbie.zip",
+      "size": 11437202,
+      "checksum_sha256": "2c78c481572a66a51e9e1a61194ebde54c6131cac3045db44d746e5ccaddb770",
+      "total_cards": 164,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Anastasia_Knight",
+      "name": "Booster P313",
+      "zip": "Booster_Anastasia_Knight.zip",
+      "size": 11706483,
+      "checksum_sha256": "fc5c37d39a12cd075edef245bb3c28cf0e5880b2b8d46cabc7c444934a443b3b",
+      "total_cards": 167,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Jana_Cova",
+      "name": "Booster P314",
+      "zip": "Booster_Jana_Cova.zip",
+      "size": 12233267,
+      "checksum_sha256": "1be9c9db5b1912d1eb3dd1d90d7d2073335471c5d12f817201e31b8bf14ace97",
+      "total_cards": 172,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Angelika_Grays",
+      "name": "Booster P315",
+      "zip": "Booster_Angelika_Grays.zip",
+      "size": 11373223,
+      "checksum_sha256": "d13c903bf2bed7fe7a1e78a34c1f37f0eb10299d1e0006c47a43d78a38f87339",
+      "total_cards": 168,
+      "total_persons": 57
+    },
+    {
+      "id": "Booster_Jaye_Summers",
+      "name": "Booster P316",
+      "zip": "Booster_Jaye_Summers.zip",
+      "size": 10911340,
+      "checksum_sha256": "1037965c17b3e7f0511c514c7575c07469ada11bdfbc4e324ec27cff7ee57124",
+      "total_cards": 167,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Milena_Ray",
+      "name": "Booster P317",
+      "zip": "Booster_Milena_Ray.zip",
+      "size": 12799021,
+      "checksum_sha256": "3186a17eb58bee330228c90b87cd8ba8b3a7ed50b642dbd7b54f6766cd29a9ba",
+      "total_cards": 182,
+      "total_persons": 60
+    },
+    {
+      "id": "Booster_Savannah_Sixx",
+      "name": "Booster P318",
+      "zip": "Booster_Savannah_Sixx.zip",
+      "size": 12897976,
+      "checksum_sha256": "afcee02ab917d6a9bdde1330b41fe203959fd758c718040d207cf5033f7d7411",
+      "total_cards": 181,
+      "total_persons": 63
+    },
+    {
+      "id": "Booster_Melissa_Moore",
+      "name": "Booster P319",
+      "zip": "Booster_Melissa_Moore.zip",
+      "size": 11420930,
+      "checksum_sha256": "5e3d69e3d537bb7d927de65312fdb43b003204629baf832512fc79df56542a56",
+      "total_cards": 162,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Sharon_Lee",
+      "name": "Booster P320",
+      "zip": "Booster_Sharon_Lee.zip",
+      "size": 11289133,
+      "checksum_sha256": "98d963abf9a8303452c871e43fd62055ea21bb7f14f25e01ac69df39d9cd9a54",
+      "total_cards": 168,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Gal_Ritchie",
+      "name": "Booster P321",
+      "zip": "Booster_Gal_Ritchie.zip",
+      "size": 11022702,
+      "checksum_sha256": "e32d3f69e1c060cd5b232a656ba0a42064977118732810205339b9e3b5867d26",
+      "total_cards": 161,
+      "total_persons": 56
+    },
+    {
+      "id": "Booster_Bobbi_Starr",
+      "name": "Booster P322",
+      "zip": "Booster_Bobbi_Starr.zip",
+      "size": 9747982,
+      "checksum_sha256": "b5fa1bea900add39d3f520ed60c47a9721f0b7731c8c96f713b085d55bbf0af4",
+      "total_cards": 149,
+      "total_persons": 52
+    },
+    {
+      "id": "Booster_Shyla_Stylez",
+      "name": "Booster P323",
+      "zip": "Booster_Shyla_Stylez.zip",
+      "size": 11409353,
+      "checksum_sha256": "34a0fd28a6aceb564e51d6caca860b59c5c05eca049f327650435091fc09542d",
+      "total_cards": 162,
+      "total_persons": 58
+    },
+    {
+      "id": "Booster_Dominika_C",
+      "name": "Booster P324",
+      "zip": "Booster_Dominika_C.zip",
+      "size": 11520338,
+      "checksum_sha256": "bfb692205932e0308fa3dc30027bb4b4369a57c8680b0245a37e8f99eb811c26",
+      "total_cards": 167,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Brittney_Skye",
+      "name": "Booster P325",
+      "zip": "Booster_Brittney_Skye.zip",
+      "size": 10009376,
+      "checksum_sha256": "4aa1690d90e06d27359f91cd26b2c827b1fc516c7f6c937ceee766b81de6a87f",
+      "total_cards": 153,
+      "total_persons": 52
+    },
+    {
+      "id": "Booster_Alexa_Tomas",
+      "name": "Booster P326",
+      "zip": "Booster_Alexa_Tomas.zip",
+      "size": 10677392,
+      "checksum_sha256": "32e4024922a04de4bfd3ea3eaab082f7f1e311b2bd5d7a2702d28d1486d2f963",
+      "total_cards": 158,
+      "total_persons": 52
+    },
+    {
+      "id": "Booster_Ariella_Ferrera",
+      "name": "Booster P327",
+      "zip": "Booster_Ariella_Ferrera.zip",
+      "size": 12190240,
+      "checksum_sha256": "6d60a0d015e8c75785f3f9de901493ae98f1dec35e81af9e3969a4c629adf17b",
+      "total_cards": 171,
+      "total_persons": 59
+    },
+    {
+      "id": "Booster_Matty_Perez",
+      "name": "Booster P328",
+      "zip": "Booster_Matty_Perez.zip",
+      "size": 11159489,
+      "checksum_sha256": "89754f0e7c91cb6b2419c8ca43d3e14bbdbd9a7f6ac55d653f7e9da1ec5d131f",
+      "total_cards": 155,
+      "total_persons": 55
+    },
+    {
+      "id": "Booster_Gemma_Massey",
+      "name": "Booster P329",
+      "zip": "Booster_Gemma_Massey.zip",
+      "size": 11598164,
+      "checksum_sha256": "2748e36cfc80de655480f51708e4b7131f712ca7085c07eb286229be13d75227",
+      "total_cards": 168,
+      "total_persons": 56
+    }
+  ]
+}
